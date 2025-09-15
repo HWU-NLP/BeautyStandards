@@ -133,7 +133,7 @@ parser.add_argument("--output_file", type=str, default=None, help="Output file n
 args = parser.parse_args()
 
 # recognize account
-hub_token = "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"
+hub_token = "<huggingface_hub_token>"
 login(token=hub_token)
 
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
