@@ -98,7 +98,7 @@ python run_freepik.py
 
 ### 4️⃣ Analyse Results
 
-The `Code/Results` folder to runs all the statistical analysis given in the paper, including anova results and inter rater agreement.
+The `Code/Results` folder runs all the statistical analysis given in the paper, including anova results and inter rater agreement.
 
 Option 1: Run the Notebook
 ```bash
