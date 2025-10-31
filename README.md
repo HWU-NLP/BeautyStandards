@@ -52,7 +52,7 @@ python beauty_taxonomy.py
 ```
 
 This will create prompt files (e.g., `image_prompts.txt`, `llama3.1_prompts.txt`, etc.) that will be used in the next stages.
-Copy the `image_prompts.txt` into the `run_image_models` folder, and other prompt files `llama3.1, llama3.1_instruct, deepseek` into the `run_llms` folder. 
+Copy the `image_prompts.txt` into the `run_image_models` folder, and other prompt `.txt` files `llama3.1, llama3.1_instruct, deepseek` into the `run_llms` folder. 
 
 ### 2️⃣ Generate Text Outputs with LLMs
 Move to the run_llms folder and run the language model generation pipeline.
