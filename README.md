@@ -4,7 +4,7 @@ Sources for "Erasing 'Ugly' from the Internet: Propagation of the Beauty Myth in
 ## 📁 Repository Structure
 
 ```
-BeautyStandards/
+BeautyStandards/Code/
 │
 ├── Prompt_template/
 │   ├── beauty_taxonomy.py             # Creates the structured beauty taxonomy for prompt generation
