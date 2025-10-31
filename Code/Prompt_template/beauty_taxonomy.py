@@ -10,7 +10,6 @@ Measurement Tool for Nasolabial Wrinkle Severity Assessment
 5. NHS fitzpatrick skin type chart
 6. Adjectives from GPT-4: promting [What are some adjectives (positive, negative and neutral) to describe a person's _________. Please return a list.]
 7. Fitzpatrick skin phototype (https://dermnetnz.org/topics/skin-phototype)
-TODO: add parameter for specific language model (to change the prompts template), currently only for pretrained
 '''
 import os
 import json
