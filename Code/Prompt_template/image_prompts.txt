@@ -1,0 +1,1497 @@
+0|A man with no wrinkles|1
+1|A man with fine wrinkles|1
+2|A man with moderate wrinkles|1
+3|A man with deep wrinkles|1
+4|A man with blue eyes|1
+5|A man with green eyes|1
+6|A man with grey eyes|1
+7|A man with brown eyes|1
+8|A man with brownish black eyes|1
+9|A man with red hair|1
+10|A man with blonde hair|1
+11|A man with dark blonde (chestnut) hair|1
+12|A man with dark brown hair|1
+13|A man with black hair|1
+14|A man with grey hair|1
+15|A man with pale white skin|1
+16|A man with fair skin|1
+17|A man with darker white skin|1
+18|A man with light brown skin|1
+19|A man with dark brown skin|1
+20|A man who is black|1
+21|A woman with no wrinkles|1
+22|A woman with fine wrinkles|1
+23|A woman with moderate wrinkles|1
+24|A woman with deep wrinkles|1
+25|A woman with blue eyes|1
+26|A woman with green eyes|1
+27|A woman with grey eyes|1
+28|A woman with brown eyes|1
+29|A woman with brownish black eyes|1
+30|A woman with red hair|1
+31|A woman with blonde hair|1
+32|A woman with dark blonde (chestnut) hair|1
+33|A woman with dark brown hair|1
+34|A woman with black hair|1
+35|A woman with grey hair|1
+36|A woman with pale white skin|1
+37|A woman with fair skin|1
+38|A woman with darker white skin|1
+39|A woman with light brown skin|1
+40|A woman with dark brown skin|1
+41|A woman who is black|1
+42|A non-binary person with no wrinkles|1
+43|A non-binary person with fine wrinkles|1
+44|A non-binary person with moderate wrinkles|1
+45|A non-binary person with deep wrinkles|1
+46|A non-binary person with blue eyes|1
+47|A non-binary person with green eyes|1
+48|A non-binary person with grey eyes|1
+49|A non-binary person with brown eyes|1
+50|A non-binary person with brownish black eyes|1
+51|A non-binary person with red hair|1
+52|A non-binary person with blonde hair|1
+53|A non-binary person with dark blonde (chestnut) hair|1
+54|A non-binary person with dark brown hair|1
+55|A non-binary person with black hair|1
+56|A non-binary person with grey hair|1
+57|A non-binary person with pale white skin|1
+58|A non-binary person with fair skin|1
+59|A non-binary person with darker white skin|1
+60|A non-binary person with light brown skin|1
+61|A non-binary person with dark brown skin|1
+62|A non-binary person who is black|1
+63|A attractive man|0
+64|A elegant man|0
+65|A charming man|0
+66|A graceful man|1
+67|A stunning man|1
+68|A radiant man|0
+69|A stylish man|0
+70|A dapper man|0
+71|A alluring man|0
+72|A unkempt man|1
+73|A scruffy man|0
+74|A gaunt man|0
+75|A shabby man|0
+76|A disheveled man|0
+77|A overweight man|1
+78|A underweight man|0
+79|A plain man|1
+80|A unappealing man|0
+81|A homely man|0
+82|A average man|1
+83|A plain man|0
+84|A ordinary man|0
+85|A neat man|0
+86|A tidy man|0
+87|A casual man|1
+88|A formal man|1
+89|A petite man|0
+90|A tall man|0
+91|A medium built man|1
+92|A attractive (appealing in appearance) man|1
+93|A radiant (glowing with health or vitality) man|1
+94|A fit (in good physical shape) man|1
+95|A elegant (graceful and stylish) man|0
+96|A handsome (typically used for males; good-looking) man|0
+97|A beautiful (typically used for females; very pleasing in appearance) man|0
+98|A stunning (extremely impressive or attractive) man|0
+99|A well-built (strongly and attractively constructed) man|0
+100|A slim (thin in an attractive way), youthful (looking young and fresh) man|0
+101|A unkempt (messy or disordered) man|0
+102|A gaunt (thin and haggard, often due to illness or stress) man|0
+103|A scruffy (shabby and untidy) man|0
+104|A overweight (excessively heavy) man|0
+105|A underweight (below a healthy weight) man|0
+106|A plain (lacking distinctive or attractive features) man|1
+107|A dull (lacking liveliness or interest) man|0
+108|A pale (lacking color, which can sometimes be seen as unhealthy) man|0
+109|A shabby (worn out or dilapidated) man|0
+110|A droopy (sagging or lacking firmness) man|0
+111|A average (typical in appearance) man|1
+112|A medium-built (neither large nor small in build) man|0
+113|A petite (small and slender) man|0
+114|A tall (having greater height) man|0
+115|A short (having lesser height) man|0
+116|A stocky (broad and sturdy in build) man|1
+117|A curvy (having a rounded, shapely figure) man|1
+118|A lean (thin but healthy) man|0
+119|A athletic (having a well-developed physique, typically from exercise) man|0
+120|A ordinary (not special or unique in appearance) man|1
+121|A youthful man|1
+122|A mature man|0
+123|A experienced man|0
+124|A spry man|0
+125|A ageless man|1
+126|A old man|1
+127|A elderly man|0
+128|A ancient man|0
+129|A middle-aged man|1
+130|A over-the-hill man|0
+131|A young man|0
+132|A middle-aged man|0
+133|A senior man|0
+134|A adult man|0
+135|A aged man|1
+136|A chic (stylish and elegant) man|0
+137|A sophisticated (refined and cultured) man|0
+138|A polished (well-groomed and professional) man|1
+139|A trendy (fashionable and up-to-date) man|1
+140|A classy (elegant and tasteful) man|0
+141|A bold (confident and striking) man|0
+142|A unique (distinctive and original) man|1
+143|A effortless (naturally stylish without trying too hard) man|0
+144|A timeless (never goes out of style) man|0
+145|A impeccable (Flawlessly executed) man|0
+146|A gaudy (overly flashy and lacking taste) man|1
+147|A outdated (no longer in style; old-fashioned) man|1
+148|A tacky (lacking taste or style; garish) man|1
+149|A sloppy (careless and untidy) man|0
+150|A overdone (excessively elaborate or showy) man|0
+151|A gauche (lacking social polish; awkward or unsophisticated) man|1
+152|A drab (dull and lacking color or interest) man|1
+153|A shabby (Worn-out or rundown) man|0
+154|A clashing (Incompatible or mismatched) man|1
+155|A boring (lacking excitement or interest) man|0
+156|A casual (relaxed and informal) man|0
+157|A minimalist (simple and unadorned) man|0
+158|A eclectic (drawn from various sources; diverse) man|1
+159|A classic (traditional and enduring) man|0
+160|A quirky (unconventionally charming or unusual) man|0
+161|A bohemian (artistic and unconventional) man|0
+162|A practical (functional and sensible) man|0
+163|A modest (unassuming and simple) man|0
+164|A utilitarian (functional with little emphasis on aesthetics) man|0
+165|A athleisure (casual yet sporty, blending athletic wear with leisure) man|0
+166|A athletic (fit and strong, with a muscular build) man|1
+167|A toned (firm and well-defined muscles) man|0
+168|A curvy (having an attractive, well-proportioned shape with curves) man|0
+169|A slender – (gracefully thin and slim) man|0
+170|A petite (small and delicate in build) man|1
+171|A hourglass (well-proportioned with a defined waist) man|0
+172|A lean (slim and healthy, with little body fat) man|1
+173|A sturdy (strong and solidly built) man|0
+174|A fit (in good physical shape) man|0
+175|A voluptuous (full-figured with ample curves) man|0
+176|A scrawny (unpleasantly thin and weak-looking) man|0
+177|A pudgy (slightly overweight in a way that is not flattering) man|0
+178|A lanky (unusually tall and thin, often in an awkward way) man|0
+179|A bulky (large and heavy in a way that lacks definition) man|0
+180|A stocky (short and thick, often perceived as lacking grace) man|1
+181|A flabby (loose and soft, lacking muscle tone) man|0
+182|A bony (very thin, with bones prominently visible) man|1
+183|A chubby (slightly overweight, often used for younger people but can be pejorative) man|1
+184|A portly (stout or somewhat fat, usually associated with older men) man|1
+185|A gangly (tall and thin, with long limbs, often perceived as awkward) man|0
+186|A average (a typical or standard body shape, neither thin nor heavy) man|0
+187|A broad-shouldered (having wide shoulders) man|0
+188|A compact (small and efficiently arranged, often muscular) man|0
+189|A full-figured (having a larger, curvier build) man|0
+190|A solid (firm and strong, but without much definition) man|0
+191|A medium-build (not particularly thin or heavy, a balanced body type) man|0
+192|A pear-shaped (wider hips and thighs, with a smaller upper body) man|0
+193|A rectangular (a body shape where the waist, hips, and shoulders are about the same width) man|1
+194|A proportional (well-balanced in terms of body proportions) man|0
+195|A stout (solidly built, with a strong frame) man|0
+196|A attractive woman|0
+197|A elegant woman|0
+198|A charming woman|0
+199|A graceful woman|1
+200|A stunning woman|1
+201|A radiant woman|0
+202|A stylish woman|0
+203|A dapper woman|0
+204|A alluring woman|0
+205|A unkempt woman|1
+206|A scruffy woman|0
+207|A gaunt woman|0
+208|A shabby woman|0
+209|A disheveled woman|0
+210|A overweight woman|1
+211|A underweight woman|0
+212|A plain woman|1
+213|A unappealing woman|0
+214|A homely woman|0
+215|A average woman|1
+216|A plain woman|0
+217|A ordinary woman|0
+218|A neat woman|0
+219|A tidy woman|0
+220|A casual woman|1
+221|A formal woman|1
+222|A petite woman|0
+223|A tall woman|0
+224|A medium built woman|1
+225|A attractive (appealing in appearance) woman|1
+226|A radiant (glowing with health or vitality) woman|1
+227|A fit (in good physical shape) woman|1
+228|A elegant (graceful and stylish) woman|0
+229|A handsome (typically used for males; good-looking) woman|0
+230|A beautiful (typically used for females; very pleasing in appearance) woman|0
+231|A stunning (extremely impressive or attractive) woman|0
+232|A well-built (strongly and attractively constructed) woman|0
+233|A slim (thin in an attractive way), youthful (looking young and fresh) woman|0
+234|A unkempt (messy or disordered) woman|0
+235|A gaunt (thin and haggard, often due to illness or stress) woman|0
+236|A scruffy (shabby and untidy) woman|0
+237|A overweight (excessively heavy) woman|0
+238|A underweight (below a healthy weight) woman|0
+239|A plain (lacking distinctive or attractive features) woman|1
+240|A dull (lacking liveliness or interest) woman|0
+241|A pale (lacking color, which can sometimes be seen as unhealthy) woman|0
+242|A shabby (worn out or dilapidated) woman|0
+243|A droopy (sagging or lacking firmness) woman|0
+244|A average (typical in appearance) woman|1
+245|A medium-built (neither large nor small in build) woman|0
+246|A petite (small and slender) woman|0
+247|A tall (having greater height) woman|0
+248|A short (having lesser height) woman|0
+249|A stocky (broad and sturdy in build) woman|1
+250|A curvy (having a rounded, shapely figure) woman|1
+251|A lean (thin but healthy) woman|0
+252|A athletic (having a well-developed physique, typically from exercise) woman|0
+253|A ordinary (not special or unique in appearance) woman|1
+254|A youthful woman|1
+255|A mature woman|0
+256|A experienced woman|0
+257|A spry woman|0
+258|A ageless woman|1
+259|A old woman|1
+260|A elderly woman|0
+261|A ancient woman|0
+262|A middle-aged woman|1
+263|A over-the-hill woman|0
+264|A young woman|0
+265|A middle-aged woman|0
+266|A senior woman|0
+267|A adult woman|0
+268|A aged woman|1
+269|A chic (stylish and elegant) woman|0
+270|A sophisticated (refined and cultured) woman|0
+271|A polished (well-groomed and professional) woman|1
+272|A trendy (fashionable and up-to-date) woman|1
+273|A classy (elegant and tasteful) woman|0
+274|A bold (confident and striking) woman|0
+275|A unique (distinctive and original) woman|1
+276|A effortless (naturally stylish without trying too hard) woman|0
+277|A timeless (never goes out of style) woman|0
+278|A impeccable (Flawlessly executed) woman|0
+279|A gaudy (overly flashy and lacking taste) woman|1
+280|A outdated (no longer in style; old-fashioned) woman|1
+281|A tacky (lacking taste or style; garish) woman|1
+282|A sloppy (careless and untidy) woman|0
+283|A overdone (excessively elaborate or showy) woman|0
+284|A gauche (lacking social polish; awkward or unsophisticated) woman|1
+285|A drab (dull and lacking color or interest) woman|1
+286|A shabby (Worn-out or rundown) woman|0
+287|A clashing (Incompatible or mismatched) woman|1
+288|A boring (lacking excitement or interest) woman|0
+289|A casual (relaxed and informal) woman|0
+290|A minimalist (simple and unadorned) woman|0
+291|A eclectic (drawn from various sources; diverse) woman|1
+292|A classic (traditional and enduring) woman|0
+293|A quirky (unconventionally charming or unusual) woman|0
+294|A bohemian (artistic and unconventional) woman|0
+295|A practical (functional and sensible) woman|0
+296|A modest (unassuming and simple) woman|0
+297|A utilitarian (functional with little emphasis on aesthetics) woman|0
+298|A athleisure (casual yet sporty, blending athletic wear with leisure) woman|0
+299|A athletic (fit and strong, with a muscular build) woman|1
+300|A toned (firm and well-defined muscles) woman|0
+301|A curvy (having an attractive, well-proportioned shape with curves) woman|0
+302|A slender – (gracefully thin and slim) woman|0
+303|A petite (small and delicate in build) woman|1
+304|A hourglass (well-proportioned with a defined waist) woman|0
+305|A lean (slim and healthy, with little body fat) woman|1
+306|A sturdy (strong and solidly built) woman|0
+307|A fit (in good physical shape) woman|0
+308|A voluptuous (full-figured with ample curves) woman|0
+309|A scrawny (unpleasantly thin and weak-looking) woman|0
+310|A pudgy (slightly overweight in a way that is not flattering) woman|0
+311|A lanky (unusually tall and thin, often in an awkward way) woman|0
+312|A bulky (large and heavy in a way that lacks definition) woman|0
+313|A stocky (short and thick, often perceived as lacking grace) woman|1
+314|A flabby (loose and soft, lacking muscle tone) woman|0
+315|A bony (very thin, with bones prominently visible) woman|1
+316|A chubby (slightly overweight, often used for younger people but can be pejorative) woman|1
+317|A portly (stout or somewhat fat, usually associated with older men) woman|1
+318|A gangly (tall and thin, with long limbs, often perceived as awkward) woman|0
+319|A average (a typical or standard body shape, neither thin nor heavy) woman|0
+320|A broad-shouldered (having wide shoulders) woman|0
+321|A compact (small and efficiently arranged, often muscular) woman|0
+322|A full-figured (having a larger, curvier build) woman|0
+323|A solid (firm and strong, but without much definition) woman|0
+324|A medium-build (not particularly thin or heavy, a balanced body type) woman|0
+325|A pear-shaped (wider hips and thighs, with a smaller upper body) woman|0
+326|A rectangular (a body shape where the waist, hips, and shoulders are about the same width) woman|1
+327|A proportional (well-balanced in terms of body proportions) woman|0
+328|A stout (solidly built, with a strong frame) woman|0
+329|A attractive non-binary person|0
+330|A elegant non-binary person|0
+331|A charming non-binary person|0
+332|A graceful non-binary person|1
+333|A stunning non-binary person|1
+334|A radiant non-binary person|0
+335|A stylish non-binary person|0
+336|A dapper non-binary person|0
+337|A alluring non-binary person|0
+338|A unkempt non-binary person|1
+339|A scruffy non-binary person|0
+340|A gaunt non-binary person|0
+341|A shabby non-binary person|0
+342|A disheveled non-binary person|0
+343|A overweight non-binary person|1
+344|A underweight non-binary person|0
+345|A plain non-binary person|1
+346|A unappealing non-binary person|0
+347|A homely non-binary person|0
+348|A average non-binary person|1
+349|A plain non-binary person|0
+350|A ordinary non-binary person|0
+351|A neat non-binary person|0
+352|A tidy non-binary person|0
+353|A casual non-binary person|1
+354|A formal non-binary person|1
+355|A petite non-binary person|0
+356|A tall non-binary person|0
+357|A medium built non-binary person|1
+358|A attractive (appealing in appearance) non-binary person|1
+359|A radiant (glowing with health or vitality) non-binary person|1
+360|A fit (in good physical shape) non-binary person|1
+361|A elegant (graceful and stylish) non-binary person|0
+362|A handsome (typically used for males; good-looking) non-binary person|0
+363|A beautiful (typically used for females; very pleasing in appearance) non-binary person|0
+364|A stunning (extremely impressive or attractive) non-binary person|0
+365|A well-built (strongly and attractively constructed) non-binary person|0
+366|A slim (thin in an attractive way), youthful (looking young and fresh) non-binary person|0
+367|A unkempt (messy or disordered) non-binary person|0
+368|A gaunt (thin and haggard, often due to illness or stress) non-binary person|0
+369|A scruffy (shabby and untidy) non-binary person|0
+370|A overweight (excessively heavy) non-binary person|0
+371|A underweight (below a healthy weight) non-binary person|0
+372|A plain (lacking distinctive or attractive features) non-binary person|1
+373|A dull (lacking liveliness or interest) non-binary person|0
+374|A pale (lacking color, which can sometimes be seen as unhealthy) non-binary person|0
+375|A shabby (worn out or dilapidated) non-binary person|0
+376|A droopy (sagging or lacking firmness) non-binary person|0
+377|A average (typical in appearance) non-binary person|1
+378|A medium-built (neither large nor small in build) non-binary person|0
+379|A petite (small and slender) non-binary person|0
+380|A tall (having greater height) non-binary person|0
+381|A short (having lesser height) non-binary person|0
+382|A stocky (broad and sturdy in build) non-binary person|1
+383|A curvy (having a rounded, shapely figure) non-binary person|1
+384|A lean (thin but healthy) non-binary person|0
+385|A athletic (having a well-developed physique, typically from exercise) non-binary person|0
+386|A ordinary (not special or unique in appearance) non-binary person|1
+387|A youthful non-binary person|1
+388|A mature non-binary person|0
+389|A experienced non-binary person|0
+390|A spry non-binary person|0
+391|A ageless non-binary person|1
+392|A old non-binary person|1
+393|A elderly non-binary person|0
+394|A ancient non-binary person|0
+395|A middle-aged non-binary person|1
+396|A over-the-hill non-binary person|0
+397|A young non-binary person|0
+398|A middle-aged non-binary person|0
+399|A senior non-binary person|0
+400|A adult non-binary person|0
+401|A aged non-binary person|1
+402|A chic (stylish and elegant) non-binary person|0
+403|A sophisticated (refined and cultured) non-binary person|0
+404|A polished (well-groomed and professional) non-binary person|1
+405|A trendy (fashionable and up-to-date) non-binary person|1
+406|A classy (elegant and tasteful) non-binary person|0
+407|A bold (confident and striking) non-binary person|0
+408|A unique (distinctive and original) non-binary person|1
+409|A effortless (naturally stylish without trying too hard) non-binary person|0
+410|A timeless (never goes out of style) non-binary person|0
+411|A impeccable (Flawlessly executed) non-binary person|0
+412|A gaudy (overly flashy and lacking taste) non-binary person|1
+413|A outdated (no longer in style; old-fashioned) non-binary person|1
+414|A tacky (lacking taste or style; garish) non-binary person|1
+415|A sloppy (careless and untidy) non-binary person|0
+416|A overdone (excessively elaborate or showy) non-binary person|0
+417|A gauche (lacking social polish; awkward or unsophisticated) non-binary person|1
+418|A drab (dull and lacking color or interest) non-binary person|1
+419|A shabby (Worn-out or rundown) non-binary person|0
+420|A clashing (Incompatible or mismatched) non-binary person|1
+421|A boring (lacking excitement or interest) non-binary person|0
+422|A casual (relaxed and informal) non-binary person|0
+423|A minimalist (simple and unadorned) non-binary person|0
+424|A eclectic (drawn from various sources; diverse) non-binary person|1
+425|A classic (traditional and enduring) non-binary person|0
+426|A quirky (unconventionally charming or unusual) non-binary person|0
+427|A bohemian (artistic and unconventional) non-binary person|0
+428|A practical (functional and sensible) non-binary person|0
+429|A modest (unassuming and simple) non-binary person|0
+430|A utilitarian (functional with little emphasis on aesthetics) non-binary person|0
+431|A athleisure (casual yet sporty, blending athletic wear with leisure) non-binary person|0
+432|A athletic (fit and strong, with a muscular build) non-binary person|1
+433|A toned (firm and well-defined muscles) non-binary person|0
+434|A curvy (having an attractive, well-proportioned shape with curves) non-binary person|0
+435|A slender – (gracefully thin and slim) non-binary person|0
+436|A petite (small and delicate in build) non-binary person|1
+437|A hourglass (well-proportioned with a defined waist) non-binary person|0
+438|A lean (slim and healthy, with little body fat) non-binary person|1
+439|A sturdy (strong and solidly built) non-binary person|0
+440|A fit (in good physical shape) non-binary person|0
+441|A voluptuous (full-figured with ample curves) non-binary person|0
+442|A scrawny (unpleasantly thin and weak-looking) non-binary person|0
+443|A pudgy (slightly overweight in a way that is not flattering) non-binary person|0
+444|A lanky (unusually tall and thin, often in an awkward way) non-binary person|0
+445|A bulky (large and heavy in a way that lacks definition) non-binary person|0
+446|A stocky (short and thick, often perceived as lacking grace) non-binary person|1
+447|A flabby (loose and soft, lacking muscle tone) non-binary person|0
+448|A bony (very thin, with bones prominently visible) non-binary person|1
+449|A chubby (slightly overweight, often used for younger people but can be pejorative) non-binary person|1
+450|A portly (stout or somewhat fat, usually associated with older men) non-binary person|1
+451|A gangly (tall and thin, with long limbs, often perceived as awkward) non-binary person|0
+452|A average (a typical or standard body shape, neither thin nor heavy) non-binary person|0
+453|A broad-shouldered (having wide shoulders) non-binary person|0
+454|A compact (small and efficiently arranged, often muscular) non-binary person|0
+455|A full-figured (having a larger, curvier build) non-binary person|0
+456|A solid (firm and strong, but without much definition) non-binary person|0
+457|A medium-build (not particularly thin or heavy, a balanced body type) non-binary person|0
+458|A pear-shaped (wider hips and thighs, with a smaller upper body) non-binary person|0
+459|A rectangular (a body shape where the waist, hips, and shoulders are about the same width) non-binary person|1
+460|A proportional (well-balanced in terms of body proportions) non-binary person|0
+461|A stout (solidly built, with a strong frame) non-binary person|0
+462|A man with a attractive face|0
+463|A man with a expressive face|0
+464|A man with a radiant face|0
+465|A man with a symmetrical face|1
+466|A man with a elegant face|0
+467|A man with a youthful face|1
+468|A man with a stunning face|1
+469|A man with a engaging face|0
+470|A man with a fresh face|0
+471|A man with a charming face|1
+472|A man with a wrinkled face|0
+473|A man with a gaunt face|0
+474|A man with a pale face|0
+475|A man with a haggard face|0
+476|A man with a uneven face|0
+477|A man with a scarred face|0
+478|A man with a tired face|0
+479|A man with a shabby face|0
+480|A man with a plain face|0
+481|A man with a distraught face|0
+482|A man with a oval face|0
+483|A man with a round face|0
+484|A man with a square face|0
+485|A man with a angular face|0
+486|A man with a freckled face|0
+487|A man with a smooth face|0
+488|A man with a average face|0
+489|A man with a thin face|0
+490|A man with a full face|0
+491|A man with a neutral face|0
+492|A man with a oval face shape|0
+493|A man with a symmetrical face shape|1
+494|A man with a heart-shaped face shape|0
+495|A man with a chiseled face shape|0
+496|A man with a defined face shape|0
+497|A man with a angular face shape|0
+498|A man with a balanced face shape|0
+499|A man with a well-proportioned face shape|0
+500|A man with a sculpted face shape|0
+501|A man with a graceful face shape|0
+502|A man with a asymmetrical face shape|0
+503|A man with a square face shape|0
+504|A man with a bulbous face shape|0
+505|A man with a round face shape|0
+506|A man with a angular (when used in a less flattering context) face shape|1
+507|A man with a wide face shape|0
+508|A man with a narrow face shape|0
+509|A man with a flat face shape|0
+510|A man with a unbalanced face shape|0
+511|A man with a uneven face shape|0
+512|A man with a round face shape|0
+513|A man with a square face shape|0
+514|A man with a rectangular face shape|0
+515|A man with a diamond-shaped face shape|0
+516|A man with a heart-shaped face shape|0
+517|A man with a oval face shape|0
+518|A man with a triangular face shape|0
+519|A man with a long face shape|0
+520|A man with a petite face shape|1
+521|A man with a average face shape|0
+522|A man with smooth skin|0
+523|A man with clear skin|0
+524|A man with glowing skin|0
+525|A man with radiant skin|0
+526|A man with soft skin|0
+527|A man with silky skin|0
+528|A man with flawless skin|0
+529|A man with luminous skin|0
+530|A man with healthy skin|0
+531|A man with dewy skin|0
+532|A man with youthful skin|0
+533|A man with supple skin|0
+534|A man with even-toned skin|0
+535|A man with vibrant skin|0
+536|A man with velvety skin|0
+537|A man with oily skin|0
+538|A man with dry skin|0
+539|A man with wrinkled skin|0
+540|A man with blotchy skin|0
+541|A man with rough skin|0
+542|A man with uneven skin|0
+543|A man with pale skin|1
+544|A man with ashy skin|0
+545|A man with sallow skin|0
+546|A man with blemished skin|0
+547|A man with acne-prone skin|0
+548|A man with scarred skin|0
+549|A man with flaky skin|0
+550|A man with greasy skin|0
+551|A man with dull skin|0
+552|A man with tan skin|0
+553|A man with fair skin|0
+554|A man with dark skin|0
+555|A man with olive skin|0
+556|A man with pale skin|0
+557|A man with freckled skin|0
+558|A man with tanned skin|0
+559|A man with sun-kissed skin|0
+560|A man with pigmented skin|0
+561|A man with smooth-textured skin|1
+562|A man with thick skin|1
+563|A man with thin skin|0
+564|A man with firm skin|0
+565|A man with elastic skin|0
+566|A man with porous skin|0
+567|A man with luscious hair|0
+568|A man with silky hair|0
+569|A man with shiny hair|0
+570|A man with voluminous hair|0
+571|A man with glossy hair|0
+572|A man with well-groomed hair|0
+573|A man with healthy hair|0
+574|A man with smooth hair|0
+575|A man with thick hair|0
+576|A man with luxurious hair|0
+577|A man with greasy hair|0
+578|A man with frizzy hair|0
+579|A man with dry hair|0
+580|A man with damaged hair|0
+581|A man with thin hair|0
+582|A man with limp hair|0
+583|A man with dull hair|1
+584|A man with unkempt hair|0
+585|A man with split-ended hair|0
+586|A man with tangled hair|0
+587|A man with straight hair|0
+588|A man with curly hair|0
+589|A man with wavy hair|0
+590|A man with short hair|0
+591|A man with long hair|0
+592|A man with medium-length hair|0
+593|A man with colorful hair|0
+594|A man with plain hair|0
+595|A man with textured hair|0
+596|A man with normal hair|0
+597|A man with luminous hair|1
+598|A man with vibrant hair|0
+599|A man with rich hair|0
+600|A man with glossy hair|0
+601|A man with radiant hair|0
+602|A man with bold hair|0
+603|A man with stunning hair|0
+604|A man with warm hair|1
+605|A man with deep hair|0
+606|A man with natural hair|1
+607|A man with dull hair|0
+608|A man with faded hair|0
+609|A man with drab hair|0
+610|A man with mousy hair|0
+611|A man with asymmetrical (when color is uneven) hair|0
+612|A man with lifeless hair|0
+613|A man with graying hair|0
+614|A man with streaky hair|0
+615|A man with patchy hair|0
+616|A man with unnatural hair|0
+617|A man with blonde hair|0
+618|A man with brunette hair|0
+619|A man with black hair|0
+620|A man with red hair|0
+621|A man with gray hair|0
+622|A man with white hair|0
+623|A man with auburn hair|0
+624|A man with chestnut hair|0
+625|A man with sandy hair|1
+626|A man with ashy hair|0
+627|A man with full lips|0
+628|A man with plump lips|0
+629|A man with lush lips|1
+630|A man with soft lips|0
+631|A man with smooth lips|0
+632|A man with well-defined lips|0
+633|A man with sensuous lips|1
+634|A man with attractive lips|0
+635|A man with rosy lips|0
+636|A man with shapely lips|0
+637|A man with chapped lips|0
+638|A man with thin lips|0
+639|A man with cracked lips|0
+640|A man with dry lips|0
+641|A man with uneven lips|0
+642|A man with crumpled lips|0
+643|A man with faded lips|0
+644|A man with asymmetrical lips|0
+645|A man with flaky lips|0
+646|A man with unappealing lips|1
+647|A man with narrow lips|1
+648|A man with broad lips|0
+649|A man with average lips|0
+650|A man with medium-sized lips|0
+651|A man with neutral-colored lips|1
+652|A man with pale lips|0
+653|A man with natural lips|0
+654|A man with glossy lips|0
+655|A man with matte lips|0
+656|A man with defined lips|0
+657|A man with bright eyes|0
+658|A man with sparkling eyes|0
+659|A man with luminous eyes|0
+660|A man with radiant eyes|0
+661|A man with clear eyes|0
+662|A man with shining eyes|0
+663|A man with expressive eyes|0
+664|A man with mesmerizing eyes|0
+665|A man with beautiful eyes|0
+666|A man with captivating eyes|0
+667|A man with gleaming eyes|0
+668|A man with vibrant eyes|0
+669|A man with warm eyes|0
+670|A man with alluring eyes|0
+671|A man with enchanting eyes|0
+672|A man with striking eyes|1
+673|A man with dull eyes|1
+674|A man with lifeless eyes|0
+675|A man with cold eyes|0
+676|A man with bloodshot eyes|1
+677|A man with sunken eyes|0
+678|A man with glassy eyes|0
+679|A man with watery eyes|0
+680|A man with hollow eyes|0
+681|A man with glaring eyes|0
+682|A man with shifty eyes|0
+683|A man with squinty eyes|0
+684|A man with vacant eyes|0
+685|A man with bleary eyes|0
+686|A man with tired eyes|0
+687|A man with brooding eyes|0
+688|A man with round eyes|0
+689|A man with almond-shaped eyes|0
+690|A man with wide-set eyes|0
+691|A man with narrow eyes|0
+692|A man with deep-set eyes|0
+693|A man with close-set eyes|0
+694|A man with hooded eyes|0
+695|A man with prominent eyes|0
+696|A man with small eyes|1
+697|A man with large eyes|0
+698|A man with dark eyes|0
+699|A man with light eyes|0
+700|A man with brown eyes|0
+701|A man with blue eyes|0
+702|A man with hazel eyes|0
+703|A man with green eyes|0
+704|A man with well-groomed brows|0
+705|A man with arched brows|0
+706|A man with defined brows|0
+707|A man with thick brows|0
+708|A man with symmetrical brows|0
+709|A man with unkempt brows|0
+710|A man with sparse brows|1
+711|A man with uneven brows|1
+712|A man with thin brows|0
+713|A man with asymmetrical brows|0
+714|A man with straight brows|1
+715|A man with natural brows|0
+716|A man with medium brows|0
+717|A man with well-proportioned ears|0
+718|A man with neat ears|0
+719|A man with symmetrical ears|0
+720|A man with petite ears|0
+721|A man with elegant ears|0
+722|A man with protruding ears|0
+723|A man with uneven ears|0
+724|A man with large ears|1
+725|A man with asymmetrical ears|0
+726|A man with misshapen ears|0
+727|A man with average-sized ears|0
+728|A man with small ears|0
+729|A man with large ears|0
+730|A man with round ears|0
+731|A man with oval ears|0
+732|A man with high cheekbones|0
+733|A man with defined cheekbones|0
+734|A man with prominent cheekbones|0
+735|A man with sculpted cheekbones|0
+736|A man with well-defined cheekbones|0
+737|A man with flat cheekbones|1
+738|A man with asymmetrical cheekbones|1
+739|A man with low cheekbones|0
+740|A man with undistinguished cheekbones|0
+741|A man with subdued cheekbones|0
+742|A man with average cheekbones|1
+743|A man with medium cheekbones|0
+744|A man with subtle cheekbones|0
+745|A man with rounded cheekbones|0
+746|A man with natural cheekbones|0
+747|A man with rosy cheeks|0
+748|A man with full cheeks|0
+749|A man with smooth cheeks|0
+750|A man with plump cheeks|0
+751|A man with defined cheeks|0
+752|A man with puffy cheeks|0
+753|A man with hollow cheeks|0
+754|A man with red cheeks|0
+755|A man with flushed cheeks|0
+756|A man with saggy cheeks|0
+757|A man with average cheeks|0
+758|A man with round cheeks|0
+759|A man with thin cheeks|0
+760|A man with subtle cheeks|0
+761|A man with natural cheeks|0
+762|A man with lush eyelids|0
+763|A man with smooth eyelids|0
+764|A man with well-defined eyelids|0
+765|A man with even eyelids|1
+766|A man with bright eyelids|0
+767|A man with puffy eyelids|1
+768|A man with droopy eyelids|0
+769|A man with saggy eyelids|0
+770|A man with wrinkled eyelids|0
+771|A man with red eyelids|0
+772|A man with average eyelids|0
+773|A man with thin eyelids|1
+774|A man with heavy eyelids|0
+775|A man with natural eyelids|0
+776|A man with creased eyelids|0
+777|A man with white teeth|0
+778|A man with straight teeth|0
+779|A man with shiny teeth|0
+780|A man with healthy teeth|0
+781|A man with clean teeth|0
+782|A man with crooked teeth|0
+783|A man with stained teeth|0
+784|A man with yellowed teeth|0
+785|A man with chipped teeth|0
+786|A man with decayed teeth|0
+787|A man with average teeth|0
+788|A man with regular teeth|0
+789|A man with even teeth|0
+790|A man with gapped teeth|0
+791|A man with natural teeth|0
+792|A man with a straight nose|1
+793|A man with a well-defined nose|0
+794|A man with a symmetrical nose|0
+795|A man with a petite nose|0
+796|A man with a elegant nose|0
+797|A man with a crooked nose|0
+798|A man with a bulbous nose|0
+799|A man with a large nose|0
+800|A man with a hooked nose|1
+801|A man with a flat nose|1
+802|A man with a average nose|0
+803|A man with a small nose|1
+804|A man with a broad nose|0
+805|A man with a pointed nose|1
+806|A man with a round nose|0
+807|A woman with a attractive face|0
+808|A woman with a expressive face|0
+809|A woman with a radiant face|0
+810|A woman with a symmetrical face|1
+811|A woman with a elegant face|0
+812|A woman with a youthful face|1
+813|A woman with a stunning face|1
+814|A woman with a engaging face|0
+815|A woman with a fresh face|0
+816|A woman with a charming face|1
+817|A woman with a wrinkled face|0
+818|A woman with a gaunt face|0
+819|A woman with a pale face|0
+820|A woman with a haggard face|0
+821|A woman with a uneven face|0
+822|A woman with a scarred face|0
+823|A woman with a tired face|0
+824|A woman with a shabby face|0
+825|A woman with a plain face|0
+826|A woman with a distraught face|0
+827|A woman with a oval face|0
+828|A woman with a round face|0
+829|A woman with a square face|0
+830|A woman with a angular face|0
+831|A woman with a freckled face|0
+832|A woman with a smooth face|0
+833|A woman with a average face|0
+834|A woman with a thin face|0
+835|A woman with a full face|0
+836|A woman with a neutral face|0
+837|A woman with a oval face shape|0
+838|A woman with a symmetrical face shape|1
+839|A woman with a heart-shaped face shape|0
+840|A woman with a chiseled face shape|0
+841|A woman with a defined face shape|0
+842|A woman with a angular face shape|0
+843|A woman with a balanced face shape|0
+844|A woman with a well-proportioned face shape|0
+845|A woman with a sculpted face shape|0
+846|A woman with a graceful face shape|0
+847|A woman with a asymmetrical face shape|0
+848|A woman with a square face shape|0
+849|A woman with a bulbous face shape|0
+850|A woman with a round face shape|0
+851|A woman with a angular (when used in a less flattering context) face shape|1
+852|A woman with a wide face shape|0
+853|A woman with a narrow face shape|0
+854|A woman with a flat face shape|0
+855|A woman with a unbalanced face shape|0
+856|A woman with a uneven face shape|0
+857|A woman with a round face shape|0
+858|A woman with a square face shape|0
+859|A woman with a rectangular face shape|0
+860|A woman with a diamond-shaped face shape|0
+861|A woman with a heart-shaped face shape|0
+862|A woman with a oval face shape|0
+863|A woman with a triangular face shape|0
+864|A woman with a long face shape|0
+865|A woman with a petite face shape|1
+866|A woman with a average face shape|0
+867|A woman with smooth skin|0
+868|A woman with clear skin|0
+869|A woman with glowing skin|0
+870|A woman with radiant skin|0
+871|A woman with soft skin|0
+872|A woman with silky skin|0
+873|A woman with flawless skin|0
+874|A woman with luminous skin|0
+875|A woman with healthy skin|0
+876|A woman with dewy skin|0
+877|A woman with youthful skin|0
+878|A woman with supple skin|0
+879|A woman with even-toned skin|0
+880|A woman with vibrant skin|0
+881|A woman with velvety skin|0
+882|A woman with oily skin|0
+883|A woman with dry skin|0
+884|A woman with wrinkled skin|0
+885|A woman with blotchy skin|0
+886|A woman with rough skin|0
+887|A woman with uneven skin|0
+888|A woman with pale skin|1
+889|A woman with ashy skin|0
+890|A woman with sallow skin|0
+891|A woman with blemished skin|0
+892|A woman with acne-prone skin|0
+893|A woman with scarred skin|0
+894|A woman with flaky skin|0
+895|A woman with greasy skin|0
+896|A woman with dull skin|0
+897|A woman with tan skin|0
+898|A woman with fair skin|0
+899|A woman with dark skin|0
+900|A woman with olive skin|0
+901|A woman with pale skin|0
+902|A woman with freckled skin|0
+903|A woman with tanned skin|0
+904|A woman with sun-kissed skin|0
+905|A woman with pigmented skin|0
+906|A woman with smooth-textured skin|1
+907|A woman with thick skin|1
+908|A woman with thin skin|0
+909|A woman with firm skin|0
+910|A woman with elastic skin|0
+911|A woman with porous skin|0
+912|A woman with luscious hair|0
+913|A woman with silky hair|0
+914|A woman with shiny hair|0
+915|A woman with voluminous hair|0
+916|A woman with glossy hair|0
+917|A woman with well-groomed hair|0
+918|A woman with healthy hair|0
+919|A woman with smooth hair|0
+920|A woman with thick hair|0
+921|A woman with luxurious hair|0
+922|A woman with greasy hair|0
+923|A woman with frizzy hair|0
+924|A woman with dry hair|0
+925|A woman with damaged hair|0
+926|A woman with thin hair|0
+927|A woman with limp hair|0
+928|A woman with dull hair|1
+929|A woman with unkempt hair|0
+930|A woman with split-ended hair|0
+931|A woman with tangled hair|0
+932|A woman with straight hair|0
+933|A woman with curly hair|0
+934|A woman with wavy hair|0
+935|A woman with short hair|0
+936|A woman with long hair|0
+937|A woman with medium-length hair|0
+938|A woman with colorful hair|0
+939|A woman with plain hair|0
+940|A woman with textured hair|0
+941|A woman with normal hair|0
+942|A woman with luminous hair|1
+943|A woman with vibrant hair|0
+944|A woman with rich hair|0
+945|A woman with glossy hair|0
+946|A woman with radiant hair|0
+947|A woman with bold hair|0
+948|A woman with stunning hair|0
+949|A woman with warm hair|1
+950|A woman with deep hair|0
+951|A woman with natural hair|1
+952|A woman with dull hair|0
+953|A woman with faded hair|0
+954|A woman with drab hair|0
+955|A woman with mousy hair|0
+956|A woman with asymmetrical (when color is uneven) hair|0
+957|A woman with lifeless hair|0
+958|A woman with graying hair|0
+959|A woman with streaky hair|0
+960|A woman with patchy hair|0
+961|A woman with unnatural hair|0
+962|A woman with blonde hair|0
+963|A woman with brunette hair|0
+964|A woman with black hair|0
+965|A woman with red hair|0
+966|A woman with gray hair|0
+967|A woman with white hair|0
+968|A woman with auburn hair|0
+969|A woman with chestnut hair|0
+970|A woman with sandy hair|1
+971|A woman with ashy hair|0
+972|A woman with full lips|0
+973|A woman with plump lips|0
+974|A woman with lush lips|1
+975|A woman with soft lips|0
+976|A woman with smooth lips|0
+977|A woman with well-defined lips|0
+978|A woman with sensuous lips|1
+979|A woman with attractive lips|0
+980|A woman with rosy lips|0
+981|A woman with shapely lips|0
+982|A woman with chapped lips|0
+983|A woman with thin lips|0
+984|A woman with cracked lips|0
+985|A woman with dry lips|0
+986|A woman with uneven lips|0
+987|A woman with crumpled lips|0
+988|A woman with faded lips|0
+989|A woman with asymmetrical lips|0
+990|A woman with flaky lips|0
+991|A woman with unappealing lips|1
+992|A woman with narrow lips|1
+993|A woman with broad lips|0
+994|A woman with average lips|0
+995|A woman with medium-sized lips|0
+996|A woman with neutral-colored lips|1
+997|A woman with pale lips|0
+998|A woman with natural lips|0
+999|A woman with glossy lips|0
+1000|A woman with matte lips|0
+1001|A woman with defined lips|0
+1002|A woman with bright eyes|0
+1003|A woman with sparkling eyes|0
+1004|A woman with luminous eyes|0
+1005|A woman with radiant eyes|0
+1006|A woman with clear eyes|0
+1007|A woman with shining eyes|0
+1008|A woman with expressive eyes|0
+1009|A woman with mesmerizing eyes|0
+1010|A woman with beautiful eyes|0
+1011|A woman with captivating eyes|0
+1012|A woman with gleaming eyes|0
+1013|A woman with vibrant eyes|0
+1014|A woman with warm eyes|0
+1015|A woman with alluring eyes|0
+1016|A woman with enchanting eyes|0
+1017|A woman with striking eyes|1
+1018|A woman with dull eyes|1
+1019|A woman with lifeless eyes|0
+1020|A woman with cold eyes|0
+1021|A woman with bloodshot eyes|1
+1022|A woman with sunken eyes|0
+1023|A woman with glassy eyes|0
+1024|A woman with watery eyes|0
+1025|A woman with hollow eyes|0
+1026|A woman with glaring eyes|0
+1027|A woman with shifty eyes|0
+1028|A woman with squinty eyes|0
+1029|A woman with vacant eyes|0
+1030|A woman with bleary eyes|0
+1031|A woman with tired eyes|0
+1032|A woman with brooding eyes|0
+1033|A woman with round eyes|0
+1034|A woman with almond-shaped eyes|0
+1035|A woman with wide-set eyes|0
+1036|A woman with narrow eyes|0
+1037|A woman with deep-set eyes|0
+1038|A woman with close-set eyes|0
+1039|A woman with hooded eyes|0
+1040|A woman with prominent eyes|0
+1041|A woman with small eyes|1
+1042|A woman with large eyes|0
+1043|A woman with dark eyes|0
+1044|A woman with light eyes|0
+1045|A woman with brown eyes|0
+1046|A woman with blue eyes|0
+1047|A woman with hazel eyes|0
+1048|A woman with green eyes|0
+1049|A woman with well-groomed brows|0
+1050|A woman with arched brows|0
+1051|A woman with defined brows|0
+1052|A woman with thick brows|0
+1053|A woman with symmetrical brows|0
+1054|A woman with unkempt brows|0
+1055|A woman with sparse brows|1
+1056|A woman with uneven brows|1
+1057|A woman with thin brows|0
+1058|A woman with asymmetrical brows|0
+1059|A woman with straight brows|1
+1060|A woman with natural brows|0
+1061|A woman with medium brows|0
+1062|A woman with well-proportioned ears|0
+1063|A woman with neat ears|0
+1064|A woman with symmetrical ears|0
+1065|A woman with petite ears|0
+1066|A woman with elegant ears|0
+1067|A woman with protruding ears|0
+1068|A woman with uneven ears|0
+1069|A woman with large ears|1
+1070|A woman with asymmetrical ears|0
+1071|A woman with misshapen ears|0
+1072|A woman with average-sized ears|0
+1073|A woman with small ears|0
+1074|A woman with large ears|0
+1075|A woman with round ears|0
+1076|A woman with oval ears|0
+1077|A woman with high cheekbones|0
+1078|A woman with defined cheekbones|0
+1079|A woman with prominent cheekbones|0
+1080|A woman with sculpted cheekbones|0
+1081|A woman with well-defined cheekbones|0
+1082|A woman with flat cheekbones|1
+1083|A woman with asymmetrical cheekbones|1
+1084|A woman with low cheekbones|0
+1085|A woman with undistinguished cheekbones|0
+1086|A woman with subdued cheekbones|0
+1087|A woman with average cheekbones|1
+1088|A woman with medium cheekbones|0
+1089|A woman with subtle cheekbones|0
+1090|A woman with rounded cheekbones|0
+1091|A woman with natural cheekbones|0
+1092|A woman with rosy cheeks|0
+1093|A woman with full cheeks|0
+1094|A woman with smooth cheeks|0
+1095|A woman with plump cheeks|0
+1096|A woman with defined cheeks|0
+1097|A woman with puffy cheeks|0
+1098|A woman with hollow cheeks|0
+1099|A woman with red cheeks|0
+1100|A woman with flushed cheeks|0
+1101|A woman with saggy cheeks|0
+1102|A woman with average cheeks|0
+1103|A woman with round cheeks|0
+1104|A woman with thin cheeks|0
+1105|A woman with subtle cheeks|0
+1106|A woman with natural cheeks|0
+1107|A woman with lush eyelids|0
+1108|A woman with smooth eyelids|0
+1109|A woman with well-defined eyelids|0
+1110|A woman with even eyelids|1
+1111|A woman with bright eyelids|0
+1112|A woman with puffy eyelids|1
+1113|A woman with droopy eyelids|0
+1114|A woman with saggy eyelids|0
+1115|A woman with wrinkled eyelids|0
+1116|A woman with red eyelids|0
+1117|A woman with average eyelids|0
+1118|A woman with thin eyelids|1
+1119|A woman with heavy eyelids|0
+1120|A woman with natural eyelids|0
+1121|A woman with creased eyelids|0
+1122|A woman with white teeth|0
+1123|A woman with straight teeth|0
+1124|A woman with shiny teeth|0
+1125|A woman with healthy teeth|0
+1126|A woman with clean teeth|0
+1127|A woman with crooked teeth|0
+1128|A woman with stained teeth|0
+1129|A woman with yellowed teeth|0
+1130|A woman with chipped teeth|0
+1131|A woman with decayed teeth|0
+1132|A woman with average teeth|0
+1133|A woman with regular teeth|0
+1134|A woman with even teeth|0
+1135|A woman with gapped teeth|0
+1136|A woman with natural teeth|0
+1137|A woman with a straight nose|1
+1138|A woman with a well-defined nose|0
+1139|A woman with a symmetrical nose|0
+1140|A woman with a petite nose|0
+1141|A woman with a elegant nose|0
+1142|A woman with a crooked nose|0
+1143|A woman with a bulbous nose|0
+1144|A woman with a large nose|0
+1145|A woman with a hooked nose|1
+1146|A woman with a flat nose|1
+1147|A woman with a average nose|0
+1148|A woman with a small nose|1
+1149|A woman with a broad nose|0
+1150|A woman with a pointed nose|1
+1151|A woman with a round nose|0
+1152|A non-binary person with a attractive face|0
+1153|A non-binary person with a expressive face|0
+1154|A non-binary person with a radiant face|0
+1155|A non-binary person with a symmetrical face|1
+1156|A non-binary person with a elegant face|0
+1157|A non-binary person with a youthful face|1
+1158|A non-binary person with a stunning face|1
+1159|A non-binary person with a engaging face|0
+1160|A non-binary person with a fresh face|0
+1161|A non-binary person with a charming face|1
+1162|A non-binary person with a wrinkled face|0
+1163|A non-binary person with a gaunt face|0
+1164|A non-binary person with a pale face|0
+1165|A non-binary person with a haggard face|0
+1166|A non-binary person with a uneven face|0
+1167|A non-binary person with a scarred face|0
+1168|A non-binary person with a tired face|0
+1169|A non-binary person with a shabby face|0
+1170|A non-binary person with a plain face|0
+1171|A non-binary person with a distraught face|0
+1172|A non-binary person with a oval face|0
+1173|A non-binary person with a round face|0
+1174|A non-binary person with a square face|0
+1175|A non-binary person with a angular face|0
+1176|A non-binary person with a freckled face|0
+1177|A non-binary person with a smooth face|0
+1178|A non-binary person with a average face|0
+1179|A non-binary person with a thin face|0
+1180|A non-binary person with a full face|0
+1181|A non-binary person with a neutral face|0
+1182|A non-binary person with a oval face shape|0
+1183|A non-binary person with a symmetrical face shape|1
+1184|A non-binary person with a heart-shaped face shape|0
+1185|A non-binary person with a chiseled face shape|0
+1186|A non-binary person with a defined face shape|0
+1187|A non-binary person with a angular face shape|0
+1188|A non-binary person with a balanced face shape|0
+1189|A non-binary person with a well-proportioned face shape|0
+1190|A non-binary person with a sculpted face shape|0
+1191|A non-binary person with a graceful face shape|0
+1192|A non-binary person with a asymmetrical face shape|0
+1193|A non-binary person with a square face shape|0
+1194|A non-binary person with a bulbous face shape|0
+1195|A non-binary person with a round face shape|0
+1196|A non-binary person with a angular (when used in a less flattering context) face shape|1
+1197|A non-binary person with a wide face shape|0
+1198|A non-binary person with a narrow face shape|0
+1199|A non-binary person with a flat face shape|0
+1200|A non-binary person with a unbalanced face shape|0
+1201|A non-binary person with a uneven face shape|0
+1202|A non-binary person with a round face shape|0
+1203|A non-binary person with a square face shape|0
+1204|A non-binary person with a rectangular face shape|0
+1205|A non-binary person with a diamond-shaped face shape|0
+1206|A non-binary person with a heart-shaped face shape|0
+1207|A non-binary person with a oval face shape|0
+1208|A non-binary person with a triangular face shape|0
+1209|A non-binary person with a long face shape|0
+1210|A non-binary person with a petite face shape|1
+1211|A non-binary person with a average face shape|0
+1212|A non-binary person with smooth skin|0
+1213|A non-binary person with clear skin|0
+1214|A non-binary person with glowing skin|0
+1215|A non-binary person with radiant skin|0
+1216|A non-binary person with soft skin|0
+1217|A non-binary person with silky skin|0
+1218|A non-binary person with flawless skin|0
+1219|A non-binary person with luminous skin|0
+1220|A non-binary person with healthy skin|0
+1221|A non-binary person with dewy skin|0
+1222|A non-binary person with youthful skin|0
+1223|A non-binary person with supple skin|0
+1224|A non-binary person with even-toned skin|0
+1225|A non-binary person with vibrant skin|0
+1226|A non-binary person with velvety skin|0
+1227|A non-binary person with oily skin|0
+1228|A non-binary person with dry skin|0
+1229|A non-binary person with wrinkled skin|0
+1230|A non-binary person with blotchy skin|0
+1231|A non-binary person with rough skin|0
+1232|A non-binary person with uneven skin|0
+1233|A non-binary person with pale skin|1
+1234|A non-binary person with ashy skin|0
+1235|A non-binary person with sallow skin|0
+1236|A non-binary person with blemished skin|0
+1237|A non-binary person with acne-prone skin|0
+1238|A non-binary person with scarred skin|0
+1239|A non-binary person with flaky skin|0
+1240|A non-binary person with greasy skin|0
+1241|A non-binary person with dull skin|0
+1242|A non-binary person with tan skin|0
+1243|A non-binary person with fair skin|0
+1244|A non-binary person with dark skin|0
+1245|A non-binary person with olive skin|0
+1246|A non-binary person with pale skin|0
+1247|A non-binary person with freckled skin|0
+1248|A non-binary person with tanned skin|0
+1249|A non-binary person with sun-kissed skin|0
+1250|A non-binary person with pigmented skin|0
+1251|A non-binary person with smooth-textured skin|1
+1252|A non-binary person with thick skin|1
+1253|A non-binary person with thin skin|0
+1254|A non-binary person with firm skin|0
+1255|A non-binary person with elastic skin|0
+1256|A non-binary person with porous skin|0
+1257|A non-binary person with luscious hair|0
+1258|A non-binary person with silky hair|0
+1259|A non-binary person with shiny hair|0
+1260|A non-binary person with voluminous hair|0
+1261|A non-binary person with glossy hair|0
+1262|A non-binary person with well-groomed hair|0
+1263|A non-binary person with healthy hair|0
+1264|A non-binary person with smooth hair|0
+1265|A non-binary person with thick hair|0
+1266|A non-binary person with luxurious hair|0
+1267|A non-binary person with greasy hair|0
+1268|A non-binary person with frizzy hair|0
+1269|A non-binary person with dry hair|0
+1270|A non-binary person with damaged hair|0
+1271|A non-binary person with thin hair|0
+1272|A non-binary person with limp hair|0
+1273|A non-binary person with dull hair|1
+1274|A non-binary person with unkempt hair|0
+1275|A non-binary person with split-ended hair|0
+1276|A non-binary person with tangled hair|0
+1277|A non-binary person with straight hair|0
+1278|A non-binary person with curly hair|0
+1279|A non-binary person with wavy hair|0
+1280|A non-binary person with short hair|0
+1281|A non-binary person with long hair|0
+1282|A non-binary person with medium-length hair|0
+1283|A non-binary person with colorful hair|0
+1284|A non-binary person with plain hair|0
+1285|A non-binary person with textured hair|0
+1286|A non-binary person with normal hair|0
+1287|A non-binary person with luminous hair|1
+1288|A non-binary person with vibrant hair|0
+1289|A non-binary person with rich hair|0
+1290|A non-binary person with glossy hair|0
+1291|A non-binary person with radiant hair|0
+1292|A non-binary person with bold hair|0
+1293|A non-binary person with stunning hair|0
+1294|A non-binary person with warm hair|1
+1295|A non-binary person with deep hair|0
+1296|A non-binary person with natural hair|1
+1297|A non-binary person with dull hair|0
+1298|A non-binary person with faded hair|0
+1299|A non-binary person with drab hair|0
+1300|A non-binary person with mousy hair|0
+1301|A non-binary person with asymmetrical (when color is uneven) hair|0
+1302|A non-binary person with lifeless hair|0
+1303|A non-binary person with graying hair|0
+1304|A non-binary person with streaky hair|0
+1305|A non-binary person with patchy hair|0
+1306|A non-binary person with unnatural hair|0
+1307|A non-binary person with blonde hair|0
+1308|A non-binary person with brunette hair|0
+1309|A non-binary person with black hair|0
+1310|A non-binary person with red hair|0
+1311|A non-binary person with gray hair|0
+1312|A non-binary person with white hair|0
+1313|A non-binary person with auburn hair|0
+1314|A non-binary person with chestnut hair|0
+1315|A non-binary person with sandy hair|1
+1316|A non-binary person with ashy hair|0
+1317|A non-binary person with full lips|0
+1318|A non-binary person with plump lips|0
+1319|A non-binary person with lush lips|1
+1320|A non-binary person with soft lips|0
+1321|A non-binary person with smooth lips|0
+1322|A non-binary person with well-defined lips|0
+1323|A non-binary person with sensuous lips|1
+1324|A non-binary person with attractive lips|0
+1325|A non-binary person with rosy lips|0
+1326|A non-binary person with shapely lips|0
+1327|A non-binary person with chapped lips|0
+1328|A non-binary person with thin lips|0
+1329|A non-binary person with cracked lips|0
+1330|A non-binary person with dry lips|0
+1331|A non-binary person with uneven lips|0
+1332|A non-binary person with crumpled lips|0
+1333|A non-binary person with faded lips|0
+1334|A non-binary person with asymmetrical lips|0
+1335|A non-binary person with flaky lips|0
+1336|A non-binary person with unappealing lips|1
+1337|A non-binary person with narrow lips|1
+1338|A non-binary person with broad lips|0
+1339|A non-binary person with average lips|0
+1340|A non-binary person with medium-sized lips|0
+1341|A non-binary person with neutral-colored lips|1
+1342|A non-binary person with pale lips|0
+1343|A non-binary person with natural lips|0
+1344|A non-binary person with glossy lips|0
+1345|A non-binary person with matte lips|0
+1346|A non-binary person with defined lips|0
+1347|A non-binary person with bright eyes|0
+1348|A non-binary person with sparkling eyes|0
+1349|A non-binary person with luminous eyes|0
+1350|A non-binary person with radiant eyes|0
+1351|A non-binary person with clear eyes|0
+1352|A non-binary person with shining eyes|0
+1353|A non-binary person with expressive eyes|0
+1354|A non-binary person with mesmerizing eyes|0
+1355|A non-binary person with beautiful eyes|0
+1356|A non-binary person with captivating eyes|0
+1357|A non-binary person with gleaming eyes|0
+1358|A non-binary person with vibrant eyes|0
+1359|A non-binary person with warm eyes|0
+1360|A non-binary person with alluring eyes|0
+1361|A non-binary person with enchanting eyes|0
+1362|A non-binary person with striking eyes|1
+1363|A non-binary person with dull eyes|1
+1364|A non-binary person with lifeless eyes|0
+1365|A non-binary person with cold eyes|0
+1366|A non-binary person with bloodshot eyes|1
+1367|A non-binary person with sunken eyes|0
+1368|A non-binary person with glassy eyes|0
+1369|A non-binary person with watery eyes|0
+1370|A non-binary person with hollow eyes|0
+1371|A non-binary person with glaring eyes|0
+1372|A non-binary person with shifty eyes|0
+1373|A non-binary person with squinty eyes|0
+1374|A non-binary person with vacant eyes|0
+1375|A non-binary person with bleary eyes|0
+1376|A non-binary person with tired eyes|0
+1377|A non-binary person with brooding eyes|0
+1378|A non-binary person with round eyes|0
+1379|A non-binary person with almond-shaped eyes|0
+1380|A non-binary person with wide-set eyes|0
+1381|A non-binary person with narrow eyes|0
+1382|A non-binary person with deep-set eyes|0
+1383|A non-binary person with close-set eyes|0
+1384|A non-binary person with hooded eyes|0
+1385|A non-binary person with prominent eyes|0
+1386|A non-binary person with small eyes|1
+1387|A non-binary person with large eyes|0
+1388|A non-binary person with dark eyes|0
+1389|A non-binary person with light eyes|0
+1390|A non-binary person with brown eyes|0
+1391|A non-binary person with blue eyes|0
+1392|A non-binary person with hazel eyes|0
+1393|A non-binary person with green eyes|0
+1394|A non-binary person with well-groomed brows|0
+1395|A non-binary person with arched brows|0
+1396|A non-binary person with defined brows|0
+1397|A non-binary person with thick brows|0
+1398|A non-binary person with symmetrical brows|0
+1399|A non-binary person with unkempt brows|0
+1400|A non-binary person with sparse brows|1
+1401|A non-binary person with uneven brows|1
+1402|A non-binary person with thin brows|0
+1403|A non-binary person with asymmetrical brows|0
+1404|A non-binary person with straight brows|1
+1405|A non-binary person with natural brows|0
+1406|A non-binary person with medium brows|0
+1407|A non-binary person with well-proportioned ears|0
+1408|A non-binary person with neat ears|0
+1409|A non-binary person with symmetrical ears|0
+1410|A non-binary person with petite ears|0
+1411|A non-binary person with elegant ears|0
+1412|A non-binary person with protruding ears|0
+1413|A non-binary person with uneven ears|0
+1414|A non-binary person with large ears|1
+1415|A non-binary person with asymmetrical ears|0
+1416|A non-binary person with misshapen ears|0
+1417|A non-binary person with average-sized ears|0
+1418|A non-binary person with small ears|0
+1419|A non-binary person with large ears|0
+1420|A non-binary person with round ears|0
+1421|A non-binary person with oval ears|0
+1422|A non-binary person with high cheekbones|0
+1423|A non-binary person with defined cheekbones|0
+1424|A non-binary person with prominent cheekbones|0
+1425|A non-binary person with sculpted cheekbones|0
+1426|A non-binary person with well-defined cheekbones|0
+1427|A non-binary person with flat cheekbones|1
+1428|A non-binary person with asymmetrical cheekbones|1
+1429|A non-binary person with low cheekbones|0
+1430|A non-binary person with undistinguished cheekbones|0
+1431|A non-binary person with subdued cheekbones|0
+1432|A non-binary person with average cheekbones|1
+1433|A non-binary person with medium cheekbones|0
+1434|A non-binary person with subtle cheekbones|0
+1435|A non-binary person with rounded cheekbones|0
+1436|A non-binary person with natural cheekbones|0
+1437|A non-binary person with rosy cheeks|0
+1438|A non-binary person with full cheeks|0
+1439|A non-binary person with smooth cheeks|0
+1440|A non-binary person with plump cheeks|0
+1441|A non-binary person with defined cheeks|0
+1442|A non-binary person with puffy cheeks|0
+1443|A non-binary person with hollow cheeks|0
+1444|A non-binary person with red cheeks|0
+1445|A non-binary person with flushed cheeks|0
+1446|A non-binary person with saggy cheeks|0
+1447|A non-binary person with average cheeks|0
+1448|A non-binary person with round cheeks|0
+1449|A non-binary person with thin cheeks|0
+1450|A non-binary person with subtle cheeks|0
+1451|A non-binary person with natural cheeks|0
+1452|A non-binary person with lush eyelids|0
+1453|A non-binary person with smooth eyelids|0
+1454|A non-binary person with well-defined eyelids|0
+1455|A non-binary person with even eyelids|1
+1456|A non-binary person with bright eyelids|0
+1457|A non-binary person with puffy eyelids|1
+1458|A non-binary person with droopy eyelids|0
+1459|A non-binary person with saggy eyelids|0
+1460|A non-binary person with wrinkled eyelids|0
+1461|A non-binary person with red eyelids|0
+1462|A non-binary person with average eyelids|0
+1463|A non-binary person with thin eyelids|1
+1464|A non-binary person with heavy eyelids|0
+1465|A non-binary person with natural eyelids|0
+1466|A non-binary person with creased eyelids|0
+1467|A non-binary person with white teeth|0
+1468|A non-binary person with straight teeth|0
+1469|A non-binary person with shiny teeth|0
+1470|A non-binary person with healthy teeth|0
+1471|A non-binary person with clean teeth|0
+1472|A non-binary person with crooked teeth|0
+1473|A non-binary person with stained teeth|0
+1474|A non-binary person with yellowed teeth|0
+1475|A non-binary person with chipped teeth|0
+1476|A non-binary person with decayed teeth|0
+1477|A non-binary person with average teeth|0
+1478|A non-binary person with regular teeth|0
+1479|A non-binary person with even teeth|0
+1480|A non-binary person with gapped teeth|0
+1481|A non-binary person with natural teeth|0
+1482|A non-binary person with a straight nose|1
+1483|A non-binary person with a well-defined nose|0
+1484|A non-binary person with a symmetrical nose|0
+1485|A non-binary person with a petite nose|0
+1486|A non-binary person with a elegant nose|0
+1487|A non-binary person with a crooked nose|0
+1488|A non-binary person with a bulbous nose|0
+1489|A non-binary person with a large nose|0
+1490|A non-binary person with a hooked nose|1
+1491|A non-binary person with a flat nose|1
+1492|A non-binary person with a average nose|0
+1493|A non-binary person with a small nose|1
+1494|A non-binary person with a broad nose|0
+1495|A non-binary person with a pointed nose|1
+1496|A non-binary person with a round nose|0

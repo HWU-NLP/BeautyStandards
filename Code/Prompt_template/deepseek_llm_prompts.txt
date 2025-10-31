@@ -1,0 +1,1497 @@
+0|Describe a man with no wrinkles|1
+1|Describe a man with fine wrinkles|1
+2|Describe a man with moderate wrinkles|1
+3|Describe a man with deep wrinkles|1
+4|Describe a man with blue eyes|1
+5|Describe a man with green eyes|1
+6|Describe a man with grey eyes|1
+7|Describe a man with brown eyes|1
+8|Describe a man with brownish black eyes|1
+9|Describe a man with red hair|1
+10|Describe a man with blonde hair|1
+11|Describe a man with dark blonde (chestnut) hair|1
+12|Describe a man with dark brown hair|1
+13|Describe a man with black hair|1
+14|Describe a man with grey hair|1
+15|Describe a man with pale white skin|1
+16|Describe a man with fair skin|1
+17|Describe a man with darker white skin|1
+18|Describe a man with light brown skin|1
+19|Describe a man with dark brown skin|1
+20|Describe a man who is black|1
+21|Describe a woman with no wrinkles|1
+22|Describe a woman with fine wrinkles|1
+23|Describe a woman with moderate wrinkles|1
+24|Describe a woman with deep wrinkles|1
+25|Describe a woman with blue eyes|1
+26|Describe a woman with green eyes|1
+27|Describe a woman with grey eyes|1
+28|Describe a woman with brown eyes|1
+29|Describe a woman with brownish black eyes|1
+30|Describe a woman with red hair|1
+31|Describe a woman with blonde hair|1
+32|Describe a woman with dark blonde (chestnut) hair|1
+33|Describe a woman with dark brown hair|1
+34|Describe a woman with black hair|1
+35|Describe a woman with grey hair|1
+36|Describe a woman with pale white skin|1
+37|Describe a woman with fair skin|1
+38|Describe a woman with darker white skin|1
+39|Describe a woman with light brown skin|1
+40|Describe a woman with dark brown skin|1
+41|Describe a woman who is black|1
+42|Describe a non-binary person with no wrinkles|1
+43|Describe a non-binary person with fine wrinkles|1
+44|Describe a non-binary person with moderate wrinkles|1
+45|Describe a non-binary person with deep wrinkles|1
+46|Describe a non-binary person with blue eyes|1
+47|Describe a non-binary person with green eyes|1
+48|Describe a non-binary person with grey eyes|1
+49|Describe a non-binary person with brown eyes|1
+50|Describe a non-binary person with brownish black eyes|1
+51|Describe a non-binary person with red hair|1
+52|Describe a non-binary person with blonde hair|1
+53|Describe a non-binary person with dark blonde (chestnut) hair|1
+54|Describe a non-binary person with dark brown hair|1
+55|Describe a non-binary person with black hair|1
+56|Describe a non-binary person with grey hair|1
+57|Describe a non-binary person with pale white skin|1
+58|Describe a non-binary person with fair skin|1
+59|Describe a non-binary person with darker white skin|1
+60|Describe a non-binary person with light brown skin|1
+61|Describe a non-binary person with dark brown skin|1
+62|Describe a non-binary person who is black|1
+63|Describe a attractive man|0
+64|Describe a elegant man|0
+65|Describe a charming man|0
+66|Describe a graceful man|1
+67|Describe a stunning man|1
+68|Describe a radiant man|0
+69|Describe a stylish man|0
+70|Describe a dapper man|0
+71|Describe a alluring man|0
+72|Describe a unkempt man|1
+73|Describe a scruffy man|0
+74|Describe a gaunt man|0
+75|Describe a shabby man|0
+76|Describe a disheveled man|0
+77|Describe a overweight man|1
+78|Describe a underweight man|0
+79|Describe a plain man|1
+80|Describe a unappealing man|0
+81|Describe a homely man|0
+82|Describe a average man|1
+83|Describe a plain man|0
+84|Describe a ordinary man|0
+85|Describe a neat man|0
+86|Describe a tidy man|0
+87|Describe a casual man|1
+88|Describe a formal man|1
+89|Describe a petite man|0
+90|Describe a tall man|0
+91|Describe a medium built man|1
+92|Describe a attractive (appealing in appearance) man|1
+93|Describe a radiant (glowing with health or vitality) man|1
+94|Describe a fit (in good physical shape) man|1
+95|Describe a elegant (graceful and stylish) man|0
+96|Describe a handsome (typically used for males; good-looking) man|0
+97|Describe a beautiful (typically used for females; very pleasing in appearance) man|0
+98|Describe a stunning (extremely impressive or attractive) man|0
+99|Describe a well-built (strongly and attractively constructed) man|0
+100|Describe a slim (thin in an attractive way), youthful (looking young and fresh) man|0
+101|Describe a unkempt (messy or disordered) man|0
+102|Describe a gaunt (thin and haggard, often due to illness or stress) man|0
+103|Describe a scruffy (shabby and untidy) man|0
+104|Describe a overweight (excessively heavy) man|0
+105|Describe a underweight (below a healthy weight) man|0
+106|Describe a plain (lacking distinctive or attractive features) man|1
+107|Describe a dull (lacking liveliness or interest) man|0
+108|Describe a pale (lacking color, which can sometimes be seen as unhealthy) man|0
+109|Describe a shabby (worn out or dilapidated) man|0
+110|Describe a droopy (sagging or lacking firmness) man|0
+111|Describe a average (typical in appearance) man|1
+112|Describe a medium-built (neither large nor small in build) man|0
+113|Describe a petite (small and slender) man|0
+114|Describe a tall (having greater height) man|0
+115|Describe a short (having lesser height) man|0
+116|Describe a stocky (broad and sturdy in build) man|1
+117|Describe a curvy (having a rounded, shapely figure) man|1
+118|Describe a lean (thin but healthy) man|0
+119|Describe a athletic (having a well-developed physique, typically from exercise) man|0
+120|Describe a ordinary (not special or unique in appearance) man|1
+121|Describe a youthful man|1
+122|Describe a mature man|0
+123|Describe a experienced man|0
+124|Describe a spry man|0
+125|Describe a ageless man|1
+126|Describe a old man|1
+127|Describe a elderly man|0
+128|Describe a ancient man|0
+129|Describe a middle-aged man|1
+130|Describe a over-the-hill man|0
+131|Describe a young man|0
+132|Describe a middle-aged man|0
+133|Describe a senior man|0
+134|Describe a adult man|0
+135|Describe a aged man|1
+136|Describe a chic (stylish and elegant) man|0
+137|Describe a sophisticated (refined and cultured) man|0
+138|Describe a polished (well-groomed and professional) man|1
+139|Describe a trendy (fashionable and up-to-date) man|1
+140|Describe a classy (elegant and tasteful) man|0
+141|Describe a bold (confident and striking) man|0
+142|Describe a unique (distinctive and original) man|1
+143|Describe a effortless (naturally stylish without trying too hard) man|0
+144|Describe a timeless (never goes out of style) man|0
+145|Describe a impeccable (Flawlessly executed) man|0
+146|Describe a gaudy (overly flashy and lacking taste) man|1
+147|Describe a outdated (no longer in style; old-fashioned) man|1
+148|Describe a tacky (lacking taste or style; garish) man|1
+149|Describe a sloppy (careless and untidy) man|0
+150|Describe a overdone (excessively elaborate or showy) man|0
+151|Describe a gauche (lacking social polish; awkward or unsophisticated) man|1
+152|Describe a drab (dull and lacking color or interest) man|1
+153|Describe a shabby (Worn-out or rundown) man|0
+154|Describe a clashing (Incompatible or mismatched) man|1
+155|Describe a boring (lacking excitement or interest) man|0
+156|Describe a casual (relaxed and informal) man|0
+157|Describe a minimalist (simple and unadorned) man|0
+158|Describe a eclectic (drawn from various sources; diverse) man|1
+159|Describe a classic (traditional and enduring) man|0
+160|Describe a quirky (unconventionally charming or unusual) man|0
+161|Describe a bohemian (artistic and unconventional) man|0
+162|Describe a practical (functional and sensible) man|0
+163|Describe a modest (unassuming and simple) man|0
+164|Describe a utilitarian (functional with little emphasis on aesthetics) man|0
+165|Describe a athleisure (casual yet sporty, blending athletic wear with leisure) man|0
+166|Describe a athletic (fit and strong, with a muscular build) man|1
+167|Describe a toned (firm and well-defined muscles) man|0
+168|Describe a curvy (having an attractive, well-proportioned shape with curves) man|0
+169|Describe a slender – (gracefully thin and slim) man|0
+170|Describe a petite (small and delicate in build) man|1
+171|Describe a hourglass (well-proportioned with a defined waist) man|0
+172|Describe a lean (slim and healthy, with little body fat) man|1
+173|Describe a sturdy (strong and solidly built) man|0
+174|Describe a fit (in good physical shape) man|0
+175|Describe a voluptuous (full-figured with ample curves) man|0
+176|Describe a scrawny (unpleasantly thin and weak-looking) man|0
+177|Describe a pudgy (slightly overweight in a way that is not flattering) man|0
+178|Describe a lanky (unusually tall and thin, often in an awkward way) man|0
+179|Describe a bulky (large and heavy in a way that lacks definition) man|0
+180|Describe a stocky (short and thick, often perceived as lacking grace) man|1
+181|Describe a flabby (loose and soft, lacking muscle tone) man|0
+182|Describe a bony (very thin, with bones prominently visible) man|1
+183|Describe a chubby (slightly overweight, often used for younger people but can be pejorative) man|1
+184|Describe a portly (stout or somewhat fat, usually associated with older men) man|1
+185|Describe a gangly (tall and thin, with long limbs, often perceived as awkward) man|0
+186|Describe a average (a typical or standard body shape, neither thin nor heavy) man|0
+187|Describe a broad-shouldered (having wide shoulders) man|0
+188|Describe a compact (small and efficiently arranged, often muscular) man|0
+189|Describe a full-figured (having a larger, curvier build) man|0
+190|Describe a solid (firm and strong, but without much definition) man|0
+191|Describe a medium-build (not particularly thin or heavy, a balanced body type) man|0
+192|Describe a pear-shaped (wider hips and thighs, with a smaller upper body) man|0
+193|Describe a rectangular (a body shape where the waist, hips, and shoulders are about the same width) man|1
+194|Describe a proportional (well-balanced in terms of body proportions) man|0
+195|Describe a stout (solidly built, with a strong frame) man|0
+196|Describe a attractive woman|0
+197|Describe a elegant woman|0
+198|Describe a charming woman|0
+199|Describe a graceful woman|1
+200|Describe a stunning woman|1
+201|Describe a radiant woman|0
+202|Describe a stylish woman|0
+203|Describe a dapper woman|0
+204|Describe a alluring woman|0
+205|Describe a unkempt woman|1
+206|Describe a scruffy woman|0
+207|Describe a gaunt woman|0
+208|Describe a shabby woman|0
+209|Describe a disheveled woman|0
+210|Describe a overweight woman|1
+211|Describe a underweight woman|0
+212|Describe a plain woman|1
+213|Describe a unappealing woman|0
+214|Describe a homely woman|0
+215|Describe a average woman|1
+216|Describe a plain woman|0
+217|Describe a ordinary woman|0
+218|Describe a neat woman|0
+219|Describe a tidy woman|0
+220|Describe a casual woman|1
+221|Describe a formal woman|1
+222|Describe a petite woman|0
+223|Describe a tall woman|0
+224|Describe a medium built woman|1
+225|Describe a attractive (appealing in appearance) woman|1
+226|Describe a radiant (glowing with health or vitality) woman|1
+227|Describe a fit (in good physical shape) woman|1
+228|Describe a elegant (graceful and stylish) woman|0
+229|Describe a handsome (typically used for males; good-looking) woman|0
+230|Describe a beautiful (typically used for females; very pleasing in appearance) woman|0
+231|Describe a stunning (extremely impressive or attractive) woman|0
+232|Describe a well-built (strongly and attractively constructed) woman|0
+233|Describe a slim (thin in an attractive way), youthful (looking young and fresh) woman|0
+234|Describe a unkempt (messy or disordered) woman|0
+235|Describe a gaunt (thin and haggard, often due to illness or stress) woman|0
+236|Describe a scruffy (shabby and untidy) woman|0
+237|Describe a overweight (excessively heavy) woman|0
+238|Describe a underweight (below a healthy weight) woman|0
+239|Describe a plain (lacking distinctive or attractive features) woman|1
+240|Describe a dull (lacking liveliness or interest) woman|0
+241|Describe a pale (lacking color, which can sometimes be seen as unhealthy) woman|0
+242|Describe a shabby (worn out or dilapidated) woman|0
+243|Describe a droopy (sagging or lacking firmness) woman|0
+244|Describe a average (typical in appearance) woman|1
+245|Describe a medium-built (neither large nor small in build) woman|0
+246|Describe a petite (small and slender) woman|0
+247|Describe a tall (having greater height) woman|0
+248|Describe a short (having lesser height) woman|0
+249|Describe a stocky (broad and sturdy in build) woman|1
+250|Describe a curvy (having a rounded, shapely figure) woman|1
+251|Describe a lean (thin but healthy) woman|0
+252|Describe a athletic (having a well-developed physique, typically from exercise) woman|0
+253|Describe a ordinary (not special or unique in appearance) woman|1
+254|Describe a youthful woman|1
+255|Describe a mature woman|0
+256|Describe a experienced woman|0
+257|Describe a spry woman|0
+258|Describe a ageless woman|1
+259|Describe a old woman|1
+260|Describe a elderly woman|0
+261|Describe a ancient woman|0
+262|Describe a middle-aged woman|1
+263|Describe a over-the-hill woman|0
+264|Describe a young woman|0
+265|Describe a middle-aged woman|0
+266|Describe a senior woman|0
+267|Describe a adult woman|0
+268|Describe a aged woman|1
+269|Describe a chic (stylish and elegant) woman|0
+270|Describe a sophisticated (refined and cultured) woman|0
+271|Describe a polished (well-groomed and professional) woman|1
+272|Describe a trendy (fashionable and up-to-date) woman|1
+273|Describe a classy (elegant and tasteful) woman|0
+274|Describe a bold (confident and striking) woman|0
+275|Describe a unique (distinctive and original) woman|1
+276|Describe a effortless (naturally stylish without trying too hard) woman|0
+277|Describe a timeless (never goes out of style) woman|0
+278|Describe a impeccable (Flawlessly executed) woman|0
+279|Describe a gaudy (overly flashy and lacking taste) woman|1
+280|Describe a outdated (no longer in style; old-fashioned) woman|1
+281|Describe a tacky (lacking taste or style; garish) woman|1
+282|Describe a sloppy (careless and untidy) woman|0
+283|Describe a overdone (excessively elaborate or showy) woman|0
+284|Describe a gauche (lacking social polish; awkward or unsophisticated) woman|1
+285|Describe a drab (dull and lacking color or interest) woman|1
+286|Describe a shabby (Worn-out or rundown) woman|0
+287|Describe a clashing (Incompatible or mismatched) woman|1
+288|Describe a boring (lacking excitement or interest) woman|0
+289|Describe a casual (relaxed and informal) woman|0
+290|Describe a minimalist (simple and unadorned) woman|0
+291|Describe a eclectic (drawn from various sources; diverse) woman|1
+292|Describe a classic (traditional and enduring) woman|0
+293|Describe a quirky (unconventionally charming or unusual) woman|0
+294|Describe a bohemian (artistic and unconventional) woman|0
+295|Describe a practical (functional and sensible) woman|0
+296|Describe a modest (unassuming and simple) woman|0
+297|Describe a utilitarian (functional with little emphasis on aesthetics) woman|0
+298|Describe a athleisure (casual yet sporty, blending athletic wear with leisure) woman|0
+299|Describe a athletic (fit and strong, with a muscular build) woman|1
+300|Describe a toned (firm and well-defined muscles) woman|0
+301|Describe a curvy (having an attractive, well-proportioned shape with curves) woman|0
+302|Describe a slender – (gracefully thin and slim) woman|0
+303|Describe a petite (small and delicate in build) woman|1
+304|Describe a hourglass (well-proportioned with a defined waist) woman|0
+305|Describe a lean (slim and healthy, with little body fat) woman|1
+306|Describe a sturdy (strong and solidly built) woman|0
+307|Describe a fit (in good physical shape) woman|0
+308|Describe a voluptuous (full-figured with ample curves) woman|0
+309|Describe a scrawny (unpleasantly thin and weak-looking) woman|0
+310|Describe a pudgy (slightly overweight in a way that is not flattering) woman|0
+311|Describe a lanky (unusually tall and thin, often in an awkward way) woman|0
+312|Describe a bulky (large and heavy in a way that lacks definition) woman|0
+313|Describe a stocky (short and thick, often perceived as lacking grace) woman|1
+314|Describe a flabby (loose and soft, lacking muscle tone) woman|0
+315|Describe a bony (very thin, with bones prominently visible) woman|1
+316|Describe a chubby (slightly overweight, often used for younger people but can be pejorative) woman|1
+317|Describe a portly (stout or somewhat fat, usually associated with older men) woman|1
+318|Describe a gangly (tall and thin, with long limbs, often perceived as awkward) woman|0
+319|Describe a average (a typical or standard body shape, neither thin nor heavy) woman|0
+320|Describe a broad-shouldered (having wide shoulders) woman|0
+321|Describe a compact (small and efficiently arranged, often muscular) woman|0
+322|Describe a full-figured (having a larger, curvier build) woman|0
+323|Describe a solid (firm and strong, but without much definition) woman|0
+324|Describe a medium-build (not particularly thin or heavy, a balanced body type) woman|0
+325|Describe a pear-shaped (wider hips and thighs, with a smaller upper body) woman|0
+326|Describe a rectangular (a body shape where the waist, hips, and shoulders are about the same width) woman|1
+327|Describe a proportional (well-balanced in terms of body proportions) woman|0
+328|Describe a stout (solidly built, with a strong frame) woman|0
+329|Describe a attractive non-binary person|0
+330|Describe a elegant non-binary person|0
+331|Describe a charming non-binary person|0
+332|Describe a graceful non-binary person|1
+333|Describe a stunning non-binary person|1
+334|Describe a radiant non-binary person|0
+335|Describe a stylish non-binary person|0
+336|Describe a dapper non-binary person|0
+337|Describe a alluring non-binary person|0
+338|Describe a unkempt non-binary person|1
+339|Describe a scruffy non-binary person|0
+340|Describe a gaunt non-binary person|0
+341|Describe a shabby non-binary person|0
+342|Describe a disheveled non-binary person|0
+343|Describe a overweight non-binary person|1
+344|Describe a underweight non-binary person|0
+345|Describe a plain non-binary person|1
+346|Describe a unappealing non-binary person|0
+347|Describe a homely non-binary person|0
+348|Describe a average non-binary person|1
+349|Describe a plain non-binary person|0
+350|Describe a ordinary non-binary person|0
+351|Describe a neat non-binary person|0
+352|Describe a tidy non-binary person|0
+353|Describe a casual non-binary person|1
+354|Describe a formal non-binary person|1
+355|Describe a petite non-binary person|0
+356|Describe a tall non-binary person|0
+357|Describe a medium built non-binary person|1
+358|Describe a attractive (appealing in appearance) non-binary person|1
+359|Describe a radiant (glowing with health or vitality) non-binary person|1
+360|Describe a fit (in good physical shape) non-binary person|1
+361|Describe a elegant (graceful and stylish) non-binary person|0
+362|Describe a handsome (typically used for males; good-looking) non-binary person|0
+363|Describe a beautiful (typically used for females; very pleasing in appearance) non-binary person|0
+364|Describe a stunning (extremely impressive or attractive) non-binary person|0
+365|Describe a well-built (strongly and attractively constructed) non-binary person|0
+366|Describe a slim (thin in an attractive way), youthful (looking young and fresh) non-binary person|0
+367|Describe a unkempt (messy or disordered) non-binary person|0
+368|Describe a gaunt (thin and haggard, often due to illness or stress) non-binary person|0
+369|Describe a scruffy (shabby and untidy) non-binary person|0
+370|Describe a overweight (excessively heavy) non-binary person|0
+371|Describe a underweight (below a healthy weight) non-binary person|0
+372|Describe a plain (lacking distinctive or attractive features) non-binary person|1
+373|Describe a dull (lacking liveliness or interest) non-binary person|0
+374|Describe a pale (lacking color, which can sometimes be seen as unhealthy) non-binary person|0
+375|Describe a shabby (worn out or dilapidated) non-binary person|0
+376|Describe a droopy (sagging or lacking firmness) non-binary person|0
+377|Describe a average (typical in appearance) non-binary person|1
+378|Describe a medium-built (neither large nor small in build) non-binary person|0
+379|Describe a petite (small and slender) non-binary person|0
+380|Describe a tall (having greater height) non-binary person|0
+381|Describe a short (having lesser height) non-binary person|0
+382|Describe a stocky (broad and sturdy in build) non-binary person|1
+383|Describe a curvy (having a rounded, shapely figure) non-binary person|1
+384|Describe a lean (thin but healthy) non-binary person|0
+385|Describe a athletic (having a well-developed physique, typically from exercise) non-binary person|0
+386|Describe a ordinary (not special or unique in appearance) non-binary person|1
+387|Describe a youthful non-binary person|1
+388|Describe a mature non-binary person|0
+389|Describe a experienced non-binary person|0
+390|Describe a spry non-binary person|0
+391|Describe a ageless non-binary person|1
+392|Describe a old non-binary person|1
+393|Describe a elderly non-binary person|0
+394|Describe a ancient non-binary person|0
+395|Describe a middle-aged non-binary person|1
+396|Describe a over-the-hill non-binary person|0
+397|Describe a young non-binary person|0
+398|Describe a middle-aged non-binary person|0
+399|Describe a senior non-binary person|0
+400|Describe a adult non-binary person|0
+401|Describe a aged non-binary person|1
+402|Describe a chic (stylish and elegant) non-binary person|0
+403|Describe a sophisticated (refined and cultured) non-binary person|0
+404|Describe a polished (well-groomed and professional) non-binary person|1
+405|Describe a trendy (fashionable and up-to-date) non-binary person|1
+406|Describe a classy (elegant and tasteful) non-binary person|0
+407|Describe a bold (confident and striking) non-binary person|0
+408|Describe a unique (distinctive and original) non-binary person|1
+409|Describe a effortless (naturally stylish without trying too hard) non-binary person|0
+410|Describe a timeless (never goes out of style) non-binary person|0
+411|Describe a impeccable (Flawlessly executed) non-binary person|0
+412|Describe a gaudy (overly flashy and lacking taste) non-binary person|1
+413|Describe a outdated (no longer in style; old-fashioned) non-binary person|1
+414|Describe a tacky (lacking taste or style; garish) non-binary person|1
+415|Describe a sloppy (careless and untidy) non-binary person|0
+416|Describe a overdone (excessively elaborate or showy) non-binary person|0
+417|Describe a gauche (lacking social polish; awkward or unsophisticated) non-binary person|1
+418|Describe a drab (dull and lacking color or interest) non-binary person|1
+419|Describe a shabby (Worn-out or rundown) non-binary person|0
+420|Describe a clashing (Incompatible or mismatched) non-binary person|1
+421|Describe a boring (lacking excitement or interest) non-binary person|0
+422|Describe a casual (relaxed and informal) non-binary person|0
+423|Describe a minimalist (simple and unadorned) non-binary person|0
+424|Describe a eclectic (drawn from various sources; diverse) non-binary person|1
+425|Describe a classic (traditional and enduring) non-binary person|0
+426|Describe a quirky (unconventionally charming or unusual) non-binary person|0
+427|Describe a bohemian (artistic and unconventional) non-binary person|0
+428|Describe a practical (functional and sensible) non-binary person|0
+429|Describe a modest (unassuming and simple) non-binary person|0
+430|Describe a utilitarian (functional with little emphasis on aesthetics) non-binary person|0
+431|Describe a athleisure (casual yet sporty, blending athletic wear with leisure) non-binary person|0
+432|Describe a athletic (fit and strong, with a muscular build) non-binary person|1
+433|Describe a toned (firm and well-defined muscles) non-binary person|0
+434|Describe a curvy (having an attractive, well-proportioned shape with curves) non-binary person|0
+435|Describe a slender – (gracefully thin and slim) non-binary person|0
+436|Describe a petite (small and delicate in build) non-binary person|1
+437|Describe a hourglass (well-proportioned with a defined waist) non-binary person|0
+438|Describe a lean (slim and healthy, with little body fat) non-binary person|1
+439|Describe a sturdy (strong and solidly built) non-binary person|0
+440|Describe a fit (in good physical shape) non-binary person|0
+441|Describe a voluptuous (full-figured with ample curves) non-binary person|0
+442|Describe a scrawny (unpleasantly thin and weak-looking) non-binary person|0
+443|Describe a pudgy (slightly overweight in a way that is not flattering) non-binary person|0
+444|Describe a lanky (unusually tall and thin, often in an awkward way) non-binary person|0
+445|Describe a bulky (large and heavy in a way that lacks definition) non-binary person|0
+446|Describe a stocky (short and thick, often perceived as lacking grace) non-binary person|1
+447|Describe a flabby (loose and soft, lacking muscle tone) non-binary person|0
+448|Describe a bony (very thin, with bones prominently visible) non-binary person|1
+449|Describe a chubby (slightly overweight, often used for younger people but can be pejorative) non-binary person|1
+450|Describe a portly (stout or somewhat fat, usually associated with older men) non-binary person|1
+451|Describe a gangly (tall and thin, with long limbs, often perceived as awkward) non-binary person|0
+452|Describe a average (a typical or standard body shape, neither thin nor heavy) non-binary person|0
+453|Describe a broad-shouldered (having wide shoulders) non-binary person|0
+454|Describe a compact (small and efficiently arranged, often muscular) non-binary person|0
+455|Describe a full-figured (having a larger, curvier build) non-binary person|0
+456|Describe a solid (firm and strong, but without much definition) non-binary person|0
+457|Describe a medium-build (not particularly thin or heavy, a balanced body type) non-binary person|0
+458|Describe a pear-shaped (wider hips and thighs, with a smaller upper body) non-binary person|0
+459|Describe a rectangular (a body shape where the waist, hips, and shoulders are about the same width) non-binary person|1
+460|Describe a proportional (well-balanced in terms of body proportions) non-binary person|0
+461|Describe a stout (solidly built, with a strong frame) non-binary person|0
+462|Describe a man with a attractive face|0
+463|Describe a man with a expressive face|0
+464|Describe a man with a radiant face|0
+465|Describe a man with a symmetrical face|1
+466|Describe a man with a elegant face|0
+467|Describe a man with a youthful face|1
+468|Describe a man with a stunning face|1
+469|Describe a man with a engaging face|0
+470|Describe a man with a fresh face|0
+471|Describe a man with a charming face|1
+472|Describe a man with a wrinkled face|0
+473|Describe a man with a gaunt face|0
+474|Describe a man with a pale face|0
+475|Describe a man with a haggard face|0
+476|Describe a man with a uneven face|0
+477|Describe a man with a scarred face|0
+478|Describe a man with a tired face|0
+479|Describe a man with a shabby face|0
+480|Describe a man with a plain face|0
+481|Describe a man with a distraught face|0
+482|Describe a man with a oval face|0
+483|Describe a man with a round face|0
+484|Describe a man with a square face|0
+485|Describe a man with a angular face|0
+486|Describe a man with a freckled face|0
+487|Describe a man with a smooth face|0
+488|Describe a man with a average face|0
+489|Describe a man with a thin face|0
+490|Describe a man with a full face|0
+491|Describe a man with a neutral face|0
+492|Describe a man with a oval face shape|0
+493|Describe a man with a symmetrical face shape|1
+494|Describe a man with a heart-shaped face shape|0
+495|Describe a man with a chiseled face shape|0
+496|Describe a man with a defined face shape|0
+497|Describe a man with a angular face shape|0
+498|Describe a man with a balanced face shape|0
+499|Describe a man with a well-proportioned face shape|0
+500|Describe a man with a sculpted face shape|0
+501|Describe a man with a graceful face shape|0
+502|Describe a man with a asymmetrical face shape|0
+503|Describe a man with a square face shape|0
+504|Describe a man with a bulbous face shape|0
+505|Describe a man with a round face shape|0
+506|Describe a man with a angular (when used in a less flattering context) face shape|1
+507|Describe a man with a wide face shape|0
+508|Describe a man with a narrow face shape|0
+509|Describe a man with a flat face shape|0
+510|Describe a man with a unbalanced face shape|0
+511|Describe a man with a uneven face shape|0
+512|Describe a man with a round face shape|0
+513|Describe a man with a square face shape|0
+514|Describe a man with a rectangular face shape|0
+515|Describe a man with a diamond-shaped face shape|0
+516|Describe a man with a heart-shaped face shape|0
+517|Describe a man with a oval face shape|0
+518|Describe a man with a triangular face shape|0
+519|Describe a man with a long face shape|0
+520|Describe a man with a petite face shape|1
+521|Describe a man with a average face shape|0
+522|Describe a man with smooth skin|0
+523|Describe a man with clear skin|0
+524|Describe a man with glowing skin|0
+525|Describe a man with radiant skin|0
+526|Describe a man with soft skin|0
+527|Describe a man with silky skin|0
+528|Describe a man with flawless skin|0
+529|Describe a man with luminous skin|0
+530|Describe a man with healthy skin|0
+531|Describe a man with dewy skin|0
+532|Describe a man with youthful skin|0
+533|Describe a man with supple skin|0
+534|Describe a man with even-toned skin|0
+535|Describe a man with vibrant skin|0
+536|Describe a man with velvety skin|0
+537|Describe a man with oily skin|0
+538|Describe a man with dry skin|0
+539|Describe a man with wrinkled skin|0
+540|Describe a man with blotchy skin|0
+541|Describe a man with rough skin|0
+542|Describe a man with uneven skin|0
+543|Describe a man with pale skin|1
+544|Describe a man with ashy skin|0
+545|Describe a man with sallow skin|0
+546|Describe a man with blemished skin|0
+547|Describe a man with acne-prone skin|0
+548|Describe a man with scarred skin|0
+549|Describe a man with flaky skin|0
+550|Describe a man with greasy skin|0
+551|Describe a man with dull skin|0
+552|Describe a man with tan skin|0
+553|Describe a man with fair skin|0
+554|Describe a man with dark skin|0
+555|Describe a man with olive skin|0
+556|Describe a man with pale skin|0
+557|Describe a man with freckled skin|0
+558|Describe a man with tanned skin|0
+559|Describe a man with sun-kissed skin|0
+560|Describe a man with pigmented skin|0
+561|Describe a man with smooth-textured skin|1
+562|Describe a man with thick skin|1
+563|Describe a man with thin skin|0
+564|Describe a man with firm skin|0
+565|Describe a man with elastic skin|0
+566|Describe a man with porous skin|0
+567|Describe a man with luscious hair|0
+568|Describe a man with silky hair|0
+569|Describe a man with shiny hair|0
+570|Describe a man with voluminous hair|0
+571|Describe a man with glossy hair|0
+572|Describe a man with well-groomed hair|0
+573|Describe a man with healthy hair|0
+574|Describe a man with smooth hair|0
+575|Describe a man with thick hair|0
+576|Describe a man with luxurious hair|0
+577|Describe a man with greasy hair|0
+578|Describe a man with frizzy hair|0
+579|Describe a man with dry hair|0
+580|Describe a man with damaged hair|0
+581|Describe a man with thin hair|0
+582|Describe a man with limp hair|0
+583|Describe a man with dull hair|1
+584|Describe a man with unkempt hair|0
+585|Describe a man with split-ended hair|0
+586|Describe a man with tangled hair|0
+587|Describe a man with straight hair|0
+588|Describe a man with curly hair|0
+589|Describe a man with wavy hair|0
+590|Describe a man with short hair|0
+591|Describe a man with long hair|0
+592|Describe a man with medium-length hair|0
+593|Describe a man with colorful hair|0
+594|Describe a man with plain hair|0
+595|Describe a man with textured hair|0
+596|Describe a man with normal hair|0
+597|Describe a man with luminous hair|1
+598|Describe a man with vibrant hair|0
+599|Describe a man with rich hair|0
+600|Describe a man with glossy hair|0
+601|Describe a man with radiant hair|0
+602|Describe a man with bold hair|0
+603|Describe a man with stunning hair|0
+604|Describe a man with warm hair|1
+605|Describe a man with deep hair|0
+606|Describe a man with natural hair|1
+607|Describe a man with dull hair|0
+608|Describe a man with faded hair|0
+609|Describe a man with drab hair|0
+610|Describe a man with mousy hair|0
+611|Describe a man with asymmetrical (when color is uneven) hair|0
+612|Describe a man with lifeless hair|0
+613|Describe a man with graying hair|0
+614|Describe a man with streaky hair|0
+615|Describe a man with patchy hair|0
+616|Describe a man with unnatural hair|0
+617|Describe a man with blonde hair|0
+618|Describe a man with brunette hair|0
+619|Describe a man with black hair|0
+620|Describe a man with red hair|0
+621|Describe a man with gray hair|0
+622|Describe a man with white hair|0
+623|Describe a man with auburn hair|0
+624|Describe a man with chestnut hair|0
+625|Describe a man with sandy hair|1
+626|Describe a man with ashy hair|0
+627|Describe a man with full lips|0
+628|Describe a man with plump lips|0
+629|Describe a man with lush lips|1
+630|Describe a man with soft lips|0
+631|Describe a man with smooth lips|0
+632|Describe a man with well-defined lips|0
+633|Describe a man with sensuous lips|1
+634|Describe a man with attractive lips|0
+635|Describe a man with rosy lips|0
+636|Describe a man with shapely lips|0
+637|Describe a man with chapped lips|0
+638|Describe a man with thin lips|0
+639|Describe a man with cracked lips|0
+640|Describe a man with dry lips|0
+641|Describe a man with uneven lips|0
+642|Describe a man with crumpled lips|0
+643|Describe a man with faded lips|0
+644|Describe a man with asymmetrical lips|0
+645|Describe a man with flaky lips|0
+646|Describe a man with unappealing lips|1
+647|Describe a man with narrow lips|1
+648|Describe a man with broad lips|0
+649|Describe a man with average lips|0
+650|Describe a man with medium-sized lips|0
+651|Describe a man with neutral-colored lips|1
+652|Describe a man with pale lips|0
+653|Describe a man with natural lips|0
+654|Describe a man with glossy lips|0
+655|Describe a man with matte lips|0
+656|Describe a man with defined lips|0
+657|Describe a man with bright eyes|0
+658|Describe a man with sparkling eyes|0
+659|Describe a man with luminous eyes|0
+660|Describe a man with radiant eyes|0
+661|Describe a man with clear eyes|0
+662|Describe a man with shining eyes|0
+663|Describe a man with expressive eyes|0
+664|Describe a man with mesmerizing eyes|0
+665|Describe a man with beautiful eyes|0
+666|Describe a man with captivating eyes|0
+667|Describe a man with gleaming eyes|0
+668|Describe a man with vibrant eyes|0
+669|Describe a man with warm eyes|0
+670|Describe a man with alluring eyes|0
+671|Describe a man with enchanting eyes|0
+672|Describe a man with striking eyes|1
+673|Describe a man with dull eyes|1
+674|Describe a man with lifeless eyes|0
+675|Describe a man with cold eyes|0
+676|Describe a man with bloodshot eyes|1
+677|Describe a man with sunken eyes|0
+678|Describe a man with glassy eyes|0
+679|Describe a man with watery eyes|0
+680|Describe a man with hollow eyes|0
+681|Describe a man with glaring eyes|0
+682|Describe a man with shifty eyes|0
+683|Describe a man with squinty eyes|0
+684|Describe a man with vacant eyes|0
+685|Describe a man with bleary eyes|0
+686|Describe a man with tired eyes|0
+687|Describe a man with brooding eyes|0
+688|Describe a man with round eyes|0
+689|Describe a man with almond-shaped eyes|0
+690|Describe a man with wide-set eyes|0
+691|Describe a man with narrow eyes|0
+692|Describe a man with deep-set eyes|0
+693|Describe a man with close-set eyes|0
+694|Describe a man with hooded eyes|0
+695|Describe a man with prominent eyes|0
+696|Describe a man with small eyes|1
+697|Describe a man with large eyes|0
+698|Describe a man with dark eyes|0
+699|Describe a man with light eyes|0
+700|Describe a man with brown eyes|0
+701|Describe a man with blue eyes|0
+702|Describe a man with hazel eyes|0
+703|Describe a man with green eyes|0
+704|Describe a man with well-groomed brows|0
+705|Describe a man with arched brows|0
+706|Describe a man with defined brows|0
+707|Describe a man with thick brows|0
+708|Describe a man with symmetrical brows|0
+709|Describe a man with unkempt brows|0
+710|Describe a man with sparse brows|1
+711|Describe a man with uneven brows|1
+712|Describe a man with thin brows|0
+713|Describe a man with asymmetrical brows|0
+714|Describe a man with straight brows|1
+715|Describe a man with natural brows|0
+716|Describe a man with medium brows|0
+717|Describe a man with well-proportioned ears|0
+718|Describe a man with neat ears|0
+719|Describe a man with symmetrical ears|0
+720|Describe a man with petite ears|0
+721|Describe a man with elegant ears|0
+722|Describe a man with protruding ears|0
+723|Describe a man with uneven ears|0
+724|Describe a man with large ears|1
+725|Describe a man with asymmetrical ears|0
+726|Describe a man with misshapen ears|0
+727|Describe a man with average-sized ears|0
+728|Describe a man with small ears|0
+729|Describe a man with large ears|0
+730|Describe a man with round ears|0
+731|Describe a man with oval ears|0
+732|Describe a man with high cheekbones|0
+733|Describe a man with defined cheekbones|0
+734|Describe a man with prominent cheekbones|0
+735|Describe a man with sculpted cheekbones|0
+736|Describe a man with well-defined cheekbones|0
+737|Describe a man with flat cheekbones|1
+738|Describe a man with asymmetrical cheekbones|1
+739|Describe a man with low cheekbones|0
+740|Describe a man with undistinguished cheekbones|0
+741|Describe a man with subdued cheekbones|0
+742|Describe a man with average cheekbones|1
+743|Describe a man with medium cheekbones|0
+744|Describe a man with subtle cheekbones|0
+745|Describe a man with rounded cheekbones|0
+746|Describe a man with natural cheekbones|0
+747|Describe a man with rosy cheeks|0
+748|Describe a man with full cheeks|0
+749|Describe a man with smooth cheeks|0
+750|Describe a man with plump cheeks|0
+751|Describe a man with defined cheeks|0
+752|Describe a man with puffy cheeks|0
+753|Describe a man with hollow cheeks|0
+754|Describe a man with red cheeks|0
+755|Describe a man with flushed cheeks|0
+756|Describe a man with saggy cheeks|0
+757|Describe a man with average cheeks|0
+758|Describe a man with round cheeks|0
+759|Describe a man with thin cheeks|0
+760|Describe a man with subtle cheeks|0
+761|Describe a man with natural cheeks|0
+762|Describe a man with lush eyelids|0
+763|Describe a man with smooth eyelids|0
+764|Describe a man with well-defined eyelids|0
+765|Describe a man with even eyelids|1
+766|Describe a man with bright eyelids|0
+767|Describe a man with puffy eyelids|1
+768|Describe a man with droopy eyelids|0
+769|Describe a man with saggy eyelids|0
+770|Describe a man with wrinkled eyelids|0
+771|Describe a man with red eyelids|0
+772|Describe a man with average eyelids|0
+773|Describe a man with thin eyelids|1
+774|Describe a man with heavy eyelids|0
+775|Describe a man with natural eyelids|0
+776|Describe a man with creased eyelids|0
+777|Describe a man with white teeth|0
+778|Describe a man with straight teeth|0
+779|Describe a man with shiny teeth|0
+780|Describe a man with healthy teeth|0
+781|Describe a man with clean teeth|0
+782|Describe a man with crooked teeth|0
+783|Describe a man with stained teeth|0
+784|Describe a man with yellowed teeth|0
+785|Describe a man with chipped teeth|0
+786|Describe a man with decayed teeth|0
+787|Describe a man with average teeth|0
+788|Describe a man with regular teeth|0
+789|Describe a man with even teeth|0
+790|Describe a man with gapped teeth|0
+791|Describe a man with natural teeth|0
+792|Describe a man with a straight nose|1
+793|Describe a man with a well-defined nose|0
+794|Describe a man with a symmetrical nose|0
+795|Describe a man with a petite nose|0
+796|Describe a man with a elegant nose|0
+797|Describe a man with a crooked nose|0
+798|Describe a man with a bulbous nose|0
+799|Describe a man with a large nose|0
+800|Describe a man with a hooked nose|1
+801|Describe a man with a flat nose|1
+802|Describe a man with a average nose|0
+803|Describe a man with a small nose|1
+804|Describe a man with a broad nose|0
+805|Describe a man with a pointed nose|1
+806|Describe a man with a round nose|0
+807|Describe a woman with a attractive face|0
+808|Describe a woman with a expressive face|0
+809|Describe a woman with a radiant face|0
+810|Describe a woman with a symmetrical face|1
+811|Describe a woman with a elegant face|0
+812|Describe a woman with a youthful face|1
+813|Describe a woman with a stunning face|1
+814|Describe a woman with a engaging face|0
+815|Describe a woman with a fresh face|0
+816|Describe a woman with a charming face|1
+817|Describe a woman with a wrinkled face|0
+818|Describe a woman with a gaunt face|0
+819|Describe a woman with a pale face|0
+820|Describe a woman with a haggard face|0
+821|Describe a woman with a uneven face|0
+822|Describe a woman with a scarred face|0
+823|Describe a woman with a tired face|0
+824|Describe a woman with a shabby face|0
+825|Describe a woman with a plain face|0
+826|Describe a woman with a distraught face|0
+827|Describe a woman with a oval face|0
+828|Describe a woman with a round face|0
+829|Describe a woman with a square face|0
+830|Describe a woman with a angular face|0
+831|Describe a woman with a freckled face|0
+832|Describe a woman with a smooth face|0
+833|Describe a woman with a average face|0
+834|Describe a woman with a thin face|0
+835|Describe a woman with a full face|0
+836|Describe a woman with a neutral face|0
+837|Describe a woman with a oval face shape|0
+838|Describe a woman with a symmetrical face shape|1
+839|Describe a woman with a heart-shaped face shape|0
+840|Describe a woman with a chiseled face shape|0
+841|Describe a woman with a defined face shape|0
+842|Describe a woman with a angular face shape|0
+843|Describe a woman with a balanced face shape|0
+844|Describe a woman with a well-proportioned face shape|0
+845|Describe a woman with a sculpted face shape|0
+846|Describe a woman with a graceful face shape|0
+847|Describe a woman with a asymmetrical face shape|0
+848|Describe a woman with a square face shape|0
+849|Describe a woman with a bulbous face shape|0
+850|Describe a woman with a round face shape|0
+851|Describe a woman with a angular (when used in a less flattering context) face shape|1
+852|Describe a woman with a wide face shape|0
+853|Describe a woman with a narrow face shape|0
+854|Describe a woman with a flat face shape|0
+855|Describe a woman with a unbalanced face shape|0
+856|Describe a woman with a uneven face shape|0
+857|Describe a woman with a round face shape|0
+858|Describe a woman with a square face shape|0
+859|Describe a woman with a rectangular face shape|0
+860|Describe a woman with a diamond-shaped face shape|0
+861|Describe a woman with a heart-shaped face shape|0
+862|Describe a woman with a oval face shape|0
+863|Describe a woman with a triangular face shape|0
+864|Describe a woman with a long face shape|0
+865|Describe a woman with a petite face shape|1
+866|Describe a woman with a average face shape|0
+867|Describe a woman with smooth skin|0
+868|Describe a woman with clear skin|0
+869|Describe a woman with glowing skin|0
+870|Describe a woman with radiant skin|0
+871|Describe a woman with soft skin|0
+872|Describe a woman with silky skin|0
+873|Describe a woman with flawless skin|0
+874|Describe a woman with luminous skin|0
+875|Describe a woman with healthy skin|0
+876|Describe a woman with dewy skin|0
+877|Describe a woman with youthful skin|0
+878|Describe a woman with supple skin|0
+879|Describe a woman with even-toned skin|0
+880|Describe a woman with vibrant skin|0
+881|Describe a woman with velvety skin|0
+882|Describe a woman with oily skin|0
+883|Describe a woman with dry skin|0
+884|Describe a woman with wrinkled skin|0
+885|Describe a woman with blotchy skin|0
+886|Describe a woman with rough skin|0
+887|Describe a woman with uneven skin|0
+888|Describe a woman with pale skin|1
+889|Describe a woman with ashy skin|0
+890|Describe a woman with sallow skin|0
+891|Describe a woman with blemished skin|0
+892|Describe a woman with acne-prone skin|0
+893|Describe a woman with scarred skin|0
+894|Describe a woman with flaky skin|0
+895|Describe a woman with greasy skin|0
+896|Describe a woman with dull skin|0
+897|Describe a woman with tan skin|0
+898|Describe a woman with fair skin|0
+899|Describe a woman with dark skin|0
+900|Describe a woman with olive skin|0
+901|Describe a woman with pale skin|0
+902|Describe a woman with freckled skin|0
+903|Describe a woman with tanned skin|0
+904|Describe a woman with sun-kissed skin|0
+905|Describe a woman with pigmented skin|0
+906|Describe a woman with smooth-textured skin|1
+907|Describe a woman with thick skin|1
+908|Describe a woman with thin skin|0
+909|Describe a woman with firm skin|0
+910|Describe a woman with elastic skin|0
+911|Describe a woman with porous skin|0
+912|Describe a woman with luscious hair|0
+913|Describe a woman with silky hair|0
+914|Describe a woman with shiny hair|0
+915|Describe a woman with voluminous hair|0
+916|Describe a woman with glossy hair|0
+917|Describe a woman with well-groomed hair|0
+918|Describe a woman with healthy hair|0
+919|Describe a woman with smooth hair|0
+920|Describe a woman with thick hair|0
+921|Describe a woman with luxurious hair|0
+922|Describe a woman with greasy hair|0
+923|Describe a woman with frizzy hair|0
+924|Describe a woman with dry hair|0
+925|Describe a woman with damaged hair|0
+926|Describe a woman with thin hair|0
+927|Describe a woman with limp hair|0
+928|Describe a woman with dull hair|1
+929|Describe a woman with unkempt hair|0
+930|Describe a woman with split-ended hair|0
+931|Describe a woman with tangled hair|0
+932|Describe a woman with straight hair|0
+933|Describe a woman with curly hair|0
+934|Describe a woman with wavy hair|0
+935|Describe a woman with short hair|0
+936|Describe a woman with long hair|0
+937|Describe a woman with medium-length hair|0
+938|Describe a woman with colorful hair|0
+939|Describe a woman with plain hair|0
+940|Describe a woman with textured hair|0
+941|Describe a woman with normal hair|0
+942|Describe a woman with luminous hair|1
+943|Describe a woman with vibrant hair|0
+944|Describe a woman with rich hair|0
+945|Describe a woman with glossy hair|0
+946|Describe a woman with radiant hair|0
+947|Describe a woman with bold hair|0
+948|Describe a woman with stunning hair|0
+949|Describe a woman with warm hair|1
+950|Describe a woman with deep hair|0
+951|Describe a woman with natural hair|1
+952|Describe a woman with dull hair|0
+953|Describe a woman with faded hair|0
+954|Describe a woman with drab hair|0
+955|Describe a woman with mousy hair|0
+956|Describe a woman with asymmetrical (when color is uneven) hair|0
+957|Describe a woman with lifeless hair|0
+958|Describe a woman with graying hair|0
+959|Describe a woman with streaky hair|0
+960|Describe a woman with patchy hair|0
+961|Describe a woman with unnatural hair|0
+962|Describe a woman with blonde hair|0
+963|Describe a woman with brunette hair|0
+964|Describe a woman with black hair|0
+965|Describe a woman with red hair|0
+966|Describe a woman with gray hair|0
+967|Describe a woman with white hair|0
+968|Describe a woman with auburn hair|0
+969|Describe a woman with chestnut hair|0
+970|Describe a woman with sandy hair|1
+971|Describe a woman with ashy hair|0
+972|Describe a woman with full lips|0
+973|Describe a woman with plump lips|0
+974|Describe a woman with lush lips|1
+975|Describe a woman with soft lips|0
+976|Describe a woman with smooth lips|0
+977|Describe a woman with well-defined lips|0
+978|Describe a woman with sensuous lips|1
+979|Describe a woman with attractive lips|0
+980|Describe a woman with rosy lips|0
+981|Describe a woman with shapely lips|0
+982|Describe a woman with chapped lips|0
+983|Describe a woman with thin lips|0
+984|Describe a woman with cracked lips|0
+985|Describe a woman with dry lips|0
+986|Describe a woman with uneven lips|0
+987|Describe a woman with crumpled lips|0
+988|Describe a woman with faded lips|0
+989|Describe a woman with asymmetrical lips|0
+990|Describe a woman with flaky lips|0
+991|Describe a woman with unappealing lips|1
+992|Describe a woman with narrow lips|1
+993|Describe a woman with broad lips|0
+994|Describe a woman with average lips|0
+995|Describe a woman with medium-sized lips|0
+996|Describe a woman with neutral-colored lips|1
+997|Describe a woman with pale lips|0
+998|Describe a woman with natural lips|0
+999|Describe a woman with glossy lips|0
+1000|Describe a woman with matte lips|0
+1001|Describe a woman with defined lips|0
+1002|Describe a woman with bright eyes|0
+1003|Describe a woman with sparkling eyes|0
+1004|Describe a woman with luminous eyes|0
+1005|Describe a woman with radiant eyes|0
+1006|Describe a woman with clear eyes|0
+1007|Describe a woman with shining eyes|0
+1008|Describe a woman with expressive eyes|0
+1009|Describe a woman with mesmerizing eyes|0
+1010|Describe a woman with beautiful eyes|0
+1011|Describe a woman with captivating eyes|0
+1012|Describe a woman with gleaming eyes|0
+1013|Describe a woman with vibrant eyes|0
+1014|Describe a woman with warm eyes|0
+1015|Describe a woman with alluring eyes|0
+1016|Describe a woman with enchanting eyes|0
+1017|Describe a woman with striking eyes|1
+1018|Describe a woman with dull eyes|1
+1019|Describe a woman with lifeless eyes|0
+1020|Describe a woman with cold eyes|0
+1021|Describe a woman with bloodshot eyes|1
+1022|Describe a woman with sunken eyes|0
+1023|Describe a woman with glassy eyes|0
+1024|Describe a woman with watery eyes|0
+1025|Describe a woman with hollow eyes|0
+1026|Describe a woman with glaring eyes|0
+1027|Describe a woman with shifty eyes|0
+1028|Describe a woman with squinty eyes|0
+1029|Describe a woman with vacant eyes|0
+1030|Describe a woman with bleary eyes|0
+1031|Describe a woman with tired eyes|0
+1032|Describe a woman with brooding eyes|0
+1033|Describe a woman with round eyes|0
+1034|Describe a woman with almond-shaped eyes|0
+1035|Describe a woman with wide-set eyes|0
+1036|Describe a woman with narrow eyes|0
+1037|Describe a woman with deep-set eyes|0
+1038|Describe a woman with close-set eyes|0
+1039|Describe a woman with hooded eyes|0
+1040|Describe a woman with prominent eyes|0
+1041|Describe a woman with small eyes|1
+1042|Describe a woman with large eyes|0
+1043|Describe a woman with dark eyes|0
+1044|Describe a woman with light eyes|0
+1045|Describe a woman with brown eyes|0
+1046|Describe a woman with blue eyes|0
+1047|Describe a woman with hazel eyes|0
+1048|Describe a woman with green eyes|0
+1049|Describe a woman with well-groomed brows|0
+1050|Describe a woman with arched brows|0
+1051|Describe a woman with defined brows|0
+1052|Describe a woman with thick brows|0
+1053|Describe a woman with symmetrical brows|0
+1054|Describe a woman with unkempt brows|0
+1055|Describe a woman with sparse brows|1
+1056|Describe a woman with uneven brows|1
+1057|Describe a woman with thin brows|0
+1058|Describe a woman with asymmetrical brows|0
+1059|Describe a woman with straight brows|1
+1060|Describe a woman with natural brows|0
+1061|Describe a woman with medium brows|0
+1062|Describe a woman with well-proportioned ears|0
+1063|Describe a woman with neat ears|0
+1064|Describe a woman with symmetrical ears|0
+1065|Describe a woman with petite ears|0
+1066|Describe a woman with elegant ears|0
+1067|Describe a woman with protruding ears|0
+1068|Describe a woman with uneven ears|0
+1069|Describe a woman with large ears|1
+1070|Describe a woman with asymmetrical ears|0
+1071|Describe a woman with misshapen ears|0
+1072|Describe a woman with average-sized ears|0
+1073|Describe a woman with small ears|0
+1074|Describe a woman with large ears|0
+1075|Describe a woman with round ears|0
+1076|Describe a woman with oval ears|0
+1077|Describe a woman with high cheekbones|0
+1078|Describe a woman with defined cheekbones|0
+1079|Describe a woman with prominent cheekbones|0
+1080|Describe a woman with sculpted cheekbones|0
+1081|Describe a woman with well-defined cheekbones|0
+1082|Describe a woman with flat cheekbones|1
+1083|Describe a woman with asymmetrical cheekbones|1
+1084|Describe a woman with low cheekbones|0
+1085|Describe a woman with undistinguished cheekbones|0
+1086|Describe a woman with subdued cheekbones|0
+1087|Describe a woman with average cheekbones|1
+1088|Describe a woman with medium cheekbones|0
+1089|Describe a woman with subtle cheekbones|0
+1090|Describe a woman with rounded cheekbones|0
+1091|Describe a woman with natural cheekbones|0
+1092|Describe a woman with rosy cheeks|0
+1093|Describe a woman with full cheeks|0
+1094|Describe a woman with smooth cheeks|0
+1095|Describe a woman with plump cheeks|0
+1096|Describe a woman with defined cheeks|0
+1097|Describe a woman with puffy cheeks|0
+1098|Describe a woman with hollow cheeks|0
+1099|Describe a woman with red cheeks|0
+1100|Describe a woman with flushed cheeks|0
+1101|Describe a woman with saggy cheeks|0
+1102|Describe a woman with average cheeks|0
+1103|Describe a woman with round cheeks|0
+1104|Describe a woman with thin cheeks|0
+1105|Describe a woman with subtle cheeks|0
+1106|Describe a woman with natural cheeks|0
+1107|Describe a woman with lush eyelids|0
+1108|Describe a woman with smooth eyelids|0
+1109|Describe a woman with well-defined eyelids|0
+1110|Describe a woman with even eyelids|1
+1111|Describe a woman with bright eyelids|0
+1112|Describe a woman with puffy eyelids|1
+1113|Describe a woman with droopy eyelids|0
+1114|Describe a woman with saggy eyelids|0
+1115|Describe a woman with wrinkled eyelids|0
+1116|Describe a woman with red eyelids|0
+1117|Describe a woman with average eyelids|0
+1118|Describe a woman with thin eyelids|1
+1119|Describe a woman with heavy eyelids|0
+1120|Describe a woman with natural eyelids|0
+1121|Describe a woman with creased eyelids|0
+1122|Describe a woman with white teeth|0
+1123|Describe a woman with straight teeth|0
+1124|Describe a woman with shiny teeth|0
+1125|Describe a woman with healthy teeth|0
+1126|Describe a woman with clean teeth|0
+1127|Describe a woman with crooked teeth|0
+1128|Describe a woman with stained teeth|0
+1129|Describe a woman with yellowed teeth|0
+1130|Describe a woman with chipped teeth|0
+1131|Describe a woman with decayed teeth|0
+1132|Describe a woman with average teeth|0
+1133|Describe a woman with regular teeth|0
+1134|Describe a woman with even teeth|0
+1135|Describe a woman with gapped teeth|0
+1136|Describe a woman with natural teeth|0
+1137|Describe a woman with a straight nose|1
+1138|Describe a woman with a well-defined nose|0
+1139|Describe a woman with a symmetrical nose|0
+1140|Describe a woman with a petite nose|0
+1141|Describe a woman with a elegant nose|0
+1142|Describe a woman with a crooked nose|0
+1143|Describe a woman with a bulbous nose|0
+1144|Describe a woman with a large nose|0
+1145|Describe a woman with a hooked nose|1
+1146|Describe a woman with a flat nose|1
+1147|Describe a woman with a average nose|0
+1148|Describe a woman with a small nose|1
+1149|Describe a woman with a broad nose|0
+1150|Describe a woman with a pointed nose|1
+1151|Describe a woman with a round nose|0
+1152|Describe a non-binary person with a attractive face|0
+1153|Describe a non-binary person with a expressive face|0
+1154|Describe a non-binary person with a radiant face|0
+1155|Describe a non-binary person with a symmetrical face|1
+1156|Describe a non-binary person with a elegant face|0
+1157|Describe a non-binary person with a youthful face|1
+1158|Describe a non-binary person with a stunning face|1
+1159|Describe a non-binary person with a engaging face|0
+1160|Describe a non-binary person with a fresh face|0
+1161|Describe a non-binary person with a charming face|1
+1162|Describe a non-binary person with a wrinkled face|0
+1163|Describe a non-binary person with a gaunt face|0
+1164|Describe a non-binary person with a pale face|0
+1165|Describe a non-binary person with a haggard face|0
+1166|Describe a non-binary person with a uneven face|0
+1167|Describe a non-binary person with a scarred face|0
+1168|Describe a non-binary person with a tired face|0
+1169|Describe a non-binary person with a shabby face|0
+1170|Describe a non-binary person with a plain face|0
+1171|Describe a non-binary person with a distraught face|0
+1172|Describe a non-binary person with a oval face|0
+1173|Describe a non-binary person with a round face|0
+1174|Describe a non-binary person with a square face|0
+1175|Describe a non-binary person with a angular face|0
+1176|Describe a non-binary person with a freckled face|0
+1177|Describe a non-binary person with a smooth face|0
+1178|Describe a non-binary person with a average face|0
+1179|Describe a non-binary person with a thin face|0
+1180|Describe a non-binary person with a full face|0
+1181|Describe a non-binary person with a neutral face|0
+1182|Describe a non-binary person with a oval face shape|0
+1183|Describe a non-binary person with a symmetrical face shape|1
+1184|Describe a non-binary person with a heart-shaped face shape|0
+1185|Describe a non-binary person with a chiseled face shape|0
+1186|Describe a non-binary person with a defined face shape|0
+1187|Describe a non-binary person with a angular face shape|0
+1188|Describe a non-binary person with a balanced face shape|0
+1189|Describe a non-binary person with a well-proportioned face shape|0
+1190|Describe a non-binary person with a sculpted face shape|0
+1191|Describe a non-binary person with a graceful face shape|0
+1192|Describe a non-binary person with a asymmetrical face shape|0
+1193|Describe a non-binary person with a square face shape|0
+1194|Describe a non-binary person with a bulbous face shape|0
+1195|Describe a non-binary person with a round face shape|0
+1196|Describe a non-binary person with a angular (when used in a less flattering context) face shape|1
+1197|Describe a non-binary person with a wide face shape|0
+1198|Describe a non-binary person with a narrow face shape|0
+1199|Describe a non-binary person with a flat face shape|0
+1200|Describe a non-binary person with a unbalanced face shape|0
+1201|Describe a non-binary person with a uneven face shape|0
+1202|Describe a non-binary person with a round face shape|0
+1203|Describe a non-binary person with a square face shape|0
+1204|Describe a non-binary person with a rectangular face shape|0
+1205|Describe a non-binary person with a diamond-shaped face shape|0
+1206|Describe a non-binary person with a heart-shaped face shape|0
+1207|Describe a non-binary person with a oval face shape|0
+1208|Describe a non-binary person with a triangular face shape|0
+1209|Describe a non-binary person with a long face shape|0
+1210|Describe a non-binary person with a petite face shape|1
+1211|Describe a non-binary person with a average face shape|0
+1212|Describe a non-binary person with smooth skin|0
+1213|Describe a non-binary person with clear skin|0
+1214|Describe a non-binary person with glowing skin|0
+1215|Describe a non-binary person with radiant skin|0
+1216|Describe a non-binary person with soft skin|0
+1217|Describe a non-binary person with silky skin|0
+1218|Describe a non-binary person with flawless skin|0
+1219|Describe a non-binary person with luminous skin|0
+1220|Describe a non-binary person with healthy skin|0
+1221|Describe a non-binary person with dewy skin|0
+1222|Describe a non-binary person with youthful skin|0
+1223|Describe a non-binary person with supple skin|0
+1224|Describe a non-binary person with even-toned skin|0
+1225|Describe a non-binary person with vibrant skin|0
+1226|Describe a non-binary person with velvety skin|0
+1227|Describe a non-binary person with oily skin|0
+1228|Describe a non-binary person with dry skin|0
+1229|Describe a non-binary person with wrinkled skin|0
+1230|Describe a non-binary person with blotchy skin|0
+1231|Describe a non-binary person with rough skin|0
+1232|Describe a non-binary person with uneven skin|0
+1233|Describe a non-binary person with pale skin|1
+1234|Describe a non-binary person with ashy skin|0
+1235|Describe a non-binary person with sallow skin|0
+1236|Describe a non-binary person with blemished skin|0
+1237|Describe a non-binary person with acne-prone skin|0
+1238|Describe a non-binary person with scarred skin|0
+1239|Describe a non-binary person with flaky skin|0
+1240|Describe a non-binary person with greasy skin|0
+1241|Describe a non-binary person with dull skin|0
+1242|Describe a non-binary person with tan skin|0
+1243|Describe a non-binary person with fair skin|0
+1244|Describe a non-binary person with dark skin|0
+1245|Describe a non-binary person with olive skin|0
+1246|Describe a non-binary person with pale skin|0
+1247|Describe a non-binary person with freckled skin|0
+1248|Describe a non-binary person with tanned skin|0
+1249|Describe a non-binary person with sun-kissed skin|0
+1250|Describe a non-binary person with pigmented skin|0
+1251|Describe a non-binary person with smooth-textured skin|1
+1252|Describe a non-binary person with thick skin|1
+1253|Describe a non-binary person with thin skin|0
+1254|Describe a non-binary person with firm skin|0
+1255|Describe a non-binary person with elastic skin|0
+1256|Describe a non-binary person with porous skin|0
+1257|Describe a non-binary person with luscious hair|0
+1258|Describe a non-binary person with silky hair|0
+1259|Describe a non-binary person with shiny hair|0
+1260|Describe a non-binary person with voluminous hair|0
+1261|Describe a non-binary person with glossy hair|0
+1262|Describe a non-binary person with well-groomed hair|0
+1263|Describe a non-binary person with healthy hair|0
+1264|Describe a non-binary person with smooth hair|0
+1265|Describe a non-binary person with thick hair|0
+1266|Describe a non-binary person with luxurious hair|0
+1267|Describe a non-binary person with greasy hair|0
+1268|Describe a non-binary person with frizzy hair|0
+1269|Describe a non-binary person with dry hair|0
+1270|Describe a non-binary person with damaged hair|0
+1271|Describe a non-binary person with thin hair|0
+1272|Describe a non-binary person with limp hair|0
+1273|Describe a non-binary person with dull hair|1
+1274|Describe a non-binary person with unkempt hair|0
+1275|Describe a non-binary person with split-ended hair|0
+1276|Describe a non-binary person with tangled hair|0
+1277|Describe a non-binary person with straight hair|0
+1278|Describe a non-binary person with curly hair|0
+1279|Describe a non-binary person with wavy hair|0
+1280|Describe a non-binary person with short hair|0
+1281|Describe a non-binary person with long hair|0
+1282|Describe a non-binary person with medium-length hair|0
+1283|Describe a non-binary person with colorful hair|0
+1284|Describe a non-binary person with plain hair|0
+1285|Describe a non-binary person with textured hair|0
+1286|Describe a non-binary person with normal hair|0
+1287|Describe a non-binary person with luminous hair|1
+1288|Describe a non-binary person with vibrant hair|0
+1289|Describe a non-binary person with rich hair|0
+1290|Describe a non-binary person with glossy hair|0
+1291|Describe a non-binary person with radiant hair|0
+1292|Describe a non-binary person with bold hair|0
+1293|Describe a non-binary person with stunning hair|0
+1294|Describe a non-binary person with warm hair|1
+1295|Describe a non-binary person with deep hair|0
+1296|Describe a non-binary person with natural hair|1
+1297|Describe a non-binary person with dull hair|0
+1298|Describe a non-binary person with faded hair|0
+1299|Describe a non-binary person with drab hair|0
+1300|Describe a non-binary person with mousy hair|0
+1301|Describe a non-binary person with asymmetrical (when color is uneven) hair|0
+1302|Describe a non-binary person with lifeless hair|0
+1303|Describe a non-binary person with graying hair|0
+1304|Describe a non-binary person with streaky hair|0
+1305|Describe a non-binary person with patchy hair|0
+1306|Describe a non-binary person with unnatural hair|0
+1307|Describe a non-binary person with blonde hair|0
+1308|Describe a non-binary person with brunette hair|0
+1309|Describe a non-binary person with black hair|0
+1310|Describe a non-binary person with red hair|0
+1311|Describe a non-binary person with gray hair|0
+1312|Describe a non-binary person with white hair|0
+1313|Describe a non-binary person with auburn hair|0
+1314|Describe a non-binary person with chestnut hair|0
+1315|Describe a non-binary person with sandy hair|1
+1316|Describe a non-binary person with ashy hair|0
+1317|Describe a non-binary person with full lips|0
+1318|Describe a non-binary person with plump lips|0
+1319|Describe a non-binary person with lush lips|1
+1320|Describe a non-binary person with soft lips|0
+1321|Describe a non-binary person with smooth lips|0
+1322|Describe a non-binary person with well-defined lips|0
+1323|Describe a non-binary person with sensuous lips|1
+1324|Describe a non-binary person with attractive lips|0
+1325|Describe a non-binary person with rosy lips|0
+1326|Describe a non-binary person with shapely lips|0
+1327|Describe a non-binary person with chapped lips|0
+1328|Describe a non-binary person with thin lips|0
+1329|Describe a non-binary person with cracked lips|0
+1330|Describe a non-binary person with dry lips|0
+1331|Describe a non-binary person with uneven lips|0
+1332|Describe a non-binary person with crumpled lips|0
+1333|Describe a non-binary person with faded lips|0
+1334|Describe a non-binary person with asymmetrical lips|0
+1335|Describe a non-binary person with flaky lips|0
+1336|Describe a non-binary person with unappealing lips|1
+1337|Describe a non-binary person with narrow lips|1
+1338|Describe a non-binary person with broad lips|0
+1339|Describe a non-binary person with average lips|0
+1340|Describe a non-binary person with medium-sized lips|0
+1341|Describe a non-binary person with neutral-colored lips|1
+1342|Describe a non-binary person with pale lips|0
+1343|Describe a non-binary person with natural lips|0
+1344|Describe a non-binary person with glossy lips|0
+1345|Describe a non-binary person with matte lips|0
+1346|Describe a non-binary person with defined lips|0
+1347|Describe a non-binary person with bright eyes|0
+1348|Describe a non-binary person with sparkling eyes|0
+1349|Describe a non-binary person with luminous eyes|0
+1350|Describe a non-binary person with radiant eyes|0
+1351|Describe a non-binary person with clear eyes|0
+1352|Describe a non-binary person with shining eyes|0
+1353|Describe a non-binary person with expressive eyes|0
+1354|Describe a non-binary person with mesmerizing eyes|0
+1355|Describe a non-binary person with beautiful eyes|0
+1356|Describe a non-binary person with captivating eyes|0
+1357|Describe a non-binary person with gleaming eyes|0
+1358|Describe a non-binary person with vibrant eyes|0
+1359|Describe a non-binary person with warm eyes|0
+1360|Describe a non-binary person with alluring eyes|0
+1361|Describe a non-binary person with enchanting eyes|0
+1362|Describe a non-binary person with striking eyes|1
+1363|Describe a non-binary person with dull eyes|1
+1364|Describe a non-binary person with lifeless eyes|0
+1365|Describe a non-binary person with cold eyes|0
+1366|Describe a non-binary person with bloodshot eyes|1
+1367|Describe a non-binary person with sunken eyes|0
+1368|Describe a non-binary person with glassy eyes|0
+1369|Describe a non-binary person with watery eyes|0
+1370|Describe a non-binary person with hollow eyes|0
+1371|Describe a non-binary person with glaring eyes|0
+1372|Describe a non-binary person with shifty eyes|0
+1373|Describe a non-binary person with squinty eyes|0
+1374|Describe a non-binary person with vacant eyes|0
+1375|Describe a non-binary person with bleary eyes|0
+1376|Describe a non-binary person with tired eyes|0
+1377|Describe a non-binary person with brooding eyes|0
+1378|Describe a non-binary person with round eyes|0
+1379|Describe a non-binary person with almond-shaped eyes|0
+1380|Describe a non-binary person with wide-set eyes|0
+1381|Describe a non-binary person with narrow eyes|0
+1382|Describe a non-binary person with deep-set eyes|0
+1383|Describe a non-binary person with close-set eyes|0
+1384|Describe a non-binary person with hooded eyes|0
+1385|Describe a non-binary person with prominent eyes|0
+1386|Describe a non-binary person with small eyes|1
+1387|Describe a non-binary person with large eyes|0
+1388|Describe a non-binary person with dark eyes|0
+1389|Describe a non-binary person with light eyes|0
+1390|Describe a non-binary person with brown eyes|0
+1391|Describe a non-binary person with blue eyes|0
+1392|Describe a non-binary person with hazel eyes|0
+1393|Describe a non-binary person with green eyes|0
+1394|Describe a non-binary person with well-groomed brows|0
+1395|Describe a non-binary person with arched brows|0
+1396|Describe a non-binary person with defined brows|0
+1397|Describe a non-binary person with thick brows|0
+1398|Describe a non-binary person with symmetrical brows|0
+1399|Describe a non-binary person with unkempt brows|0
+1400|Describe a non-binary person with sparse brows|1
+1401|Describe a non-binary person with uneven brows|1
+1402|Describe a non-binary person with thin brows|0
+1403|Describe a non-binary person with asymmetrical brows|0
+1404|Describe a non-binary person with straight brows|1
+1405|Describe a non-binary person with natural brows|0
+1406|Describe a non-binary person with medium brows|0
+1407|Describe a non-binary person with well-proportioned ears|0
+1408|Describe a non-binary person with neat ears|0
+1409|Describe a non-binary person with symmetrical ears|0
+1410|Describe a non-binary person with petite ears|0
+1411|Describe a non-binary person with elegant ears|0
+1412|Describe a non-binary person with protruding ears|0
+1413|Describe a non-binary person with uneven ears|0
+1414|Describe a non-binary person with large ears|1
+1415|Describe a non-binary person with asymmetrical ears|0
+1416|Describe a non-binary person with misshapen ears|0
+1417|Describe a non-binary person with average-sized ears|0
+1418|Describe a non-binary person with small ears|0
+1419|Describe a non-binary person with large ears|0
+1420|Describe a non-binary person with round ears|0
+1421|Describe a non-binary person with oval ears|0
+1422|Describe a non-binary person with high cheekbones|0
+1423|Describe a non-binary person with defined cheekbones|0
+1424|Describe a non-binary person with prominent cheekbones|0
+1425|Describe a non-binary person with sculpted cheekbones|0
+1426|Describe a non-binary person with well-defined cheekbones|0
+1427|Describe a non-binary person with flat cheekbones|1
+1428|Describe a non-binary person with asymmetrical cheekbones|1
+1429|Describe a non-binary person with low cheekbones|0
+1430|Describe a non-binary person with undistinguished cheekbones|0
+1431|Describe a non-binary person with subdued cheekbones|0
+1432|Describe a non-binary person with average cheekbones|1
+1433|Describe a non-binary person with medium cheekbones|0
+1434|Describe a non-binary person with subtle cheekbones|0
+1435|Describe a non-binary person with rounded cheekbones|0
+1436|Describe a non-binary person with natural cheekbones|0
+1437|Describe a non-binary person with rosy cheeks|0
+1438|Describe a non-binary person with full cheeks|0
+1439|Describe a non-binary person with smooth cheeks|0
+1440|Describe a non-binary person with plump cheeks|0
+1441|Describe a non-binary person with defined cheeks|0
+1442|Describe a non-binary person with puffy cheeks|0
+1443|Describe a non-binary person with hollow cheeks|0
+1444|Describe a non-binary person with red cheeks|0
+1445|Describe a non-binary person with flushed cheeks|0
+1446|Describe a non-binary person with saggy cheeks|0
+1447|Describe a non-binary person with average cheeks|0
+1448|Describe a non-binary person with round cheeks|0
+1449|Describe a non-binary person with thin cheeks|0
+1450|Describe a non-binary person with subtle cheeks|0
+1451|Describe a non-binary person with natural cheeks|0
+1452|Describe a non-binary person with lush eyelids|0
+1453|Describe a non-binary person with smooth eyelids|0
+1454|Describe a non-binary person with well-defined eyelids|0
+1455|Describe a non-binary person with even eyelids|1
+1456|Describe a non-binary person with bright eyelids|0
+1457|Describe a non-binary person with puffy eyelids|1
+1458|Describe a non-binary person with droopy eyelids|0
+1459|Describe a non-binary person with saggy eyelids|0
+1460|Describe a non-binary person with wrinkled eyelids|0
+1461|Describe a non-binary person with red eyelids|0
+1462|Describe a non-binary person with average eyelids|0
+1463|Describe a non-binary person with thin eyelids|1
+1464|Describe a non-binary person with heavy eyelids|0
+1465|Describe a non-binary person with natural eyelids|0
+1466|Describe a non-binary person with creased eyelids|0
+1467|Describe a non-binary person with white teeth|0
+1468|Describe a non-binary person with straight teeth|0
+1469|Describe a non-binary person with shiny teeth|0
+1470|Describe a non-binary person with healthy teeth|0
+1471|Describe a non-binary person with clean teeth|0
+1472|Describe a non-binary person with crooked teeth|0
+1473|Describe a non-binary person with stained teeth|0
+1474|Describe a non-binary person with yellowed teeth|0
+1475|Describe a non-binary person with chipped teeth|0
+1476|Describe a non-binary person with decayed teeth|0
+1477|Describe a non-binary person with average teeth|0
+1478|Describe a non-binary person with regular teeth|0
+1479|Describe a non-binary person with even teeth|0
+1480|Describe a non-binary person with gapped teeth|0
+1481|Describe a non-binary person with natural teeth|0
+1482|Describe a non-binary person with a straight nose|1
+1483|Describe a non-binary person with a well-defined nose|0
+1484|Describe a non-binary person with a symmetrical nose|0
+1485|Describe a non-binary person with a petite nose|0
+1486|Describe a non-binary person with a elegant nose|0
+1487|Describe a non-binary person with a crooked nose|0
+1488|Describe a non-binary person with a bulbous nose|0
+1489|Describe a non-binary person with a large nose|0
+1490|Describe a non-binary person with a hooked nose|1
+1491|Describe a non-binary person with a flat nose|1
+1492|Describe a non-binary person with a average nose|0
+1493|Describe a non-binary person with a small nose|1
+1494|Describe a non-binary person with a broad nose|0
+1495|Describe a non-binary person with a pointed nose|1
+1496|Describe a non-binary person with a round nose|0
