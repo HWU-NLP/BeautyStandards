@@ -95,6 +95,8 @@ python run_freepik.py
 
 ⚠️ You will need to manually copy the relevant input prompts or descriptions into the image model scripts before running.
 
+Sample of generated images from the paper
+![Sample of generated images from the paper](figures/image_grid_from_paper.png)
 
 ### 4️⃣ Analyse Results
 
